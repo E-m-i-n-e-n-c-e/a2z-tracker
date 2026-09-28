@@ -1,0 +1,5 @@
+# Saved takeUforward page: contains account/session data, keep it local
+*.html
+
+.DS_Store
+__pycache__/
