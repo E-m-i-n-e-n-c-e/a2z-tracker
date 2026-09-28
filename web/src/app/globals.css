@@ -176,7 +176,6 @@ select {
 
 .rail-step[aria-current] {
   background: var(--surface);
-  box-shadow: inset 2px 0 0 var(--ink);
 }
 
 .rail-no {
