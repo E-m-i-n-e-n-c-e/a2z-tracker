@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Schibsted_Grotesk } from "next/font/google";
+import { ProgressProvider } from "@/lib/progress";
 import "./globals.css";
 
 const sans = Schibsted_Grotesk({
@@ -15,7 +16,9 @@ export const metadata: Metadata = {
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="en" className={sans.variable}>
-      <body>{children}</body>
+      <body>
+        <ProgressProvider>{children}</ProgressProvider>
+      </body>
     </html>
   );
 }

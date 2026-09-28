@@ -1,10 +1,12 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import Link from "next/link";
+import { AccountLink, ConflictDialog } from "./Account";
 import Mosaic from "./Mosaic";
 import QuestionRow from "./QuestionRow";
 import { ChevronIcon } from "./icons";
-import { isProgressState, snapshotState, useProgress } from "@/lib/progress";
+import { isProgressState, useProgress } from "@/lib/progress";
 import { type Difficulty, ITEMS, type Item, STEPS, itemKey, subKey } from "@/lib/sheet";
 
 type StatusFilter = "all" | "todo" | "done";
@@ -25,12 +27,12 @@ function readStorage<T>(key: string, fallback: T, valid: (v: unknown) => boolean
 }
 
 export default function Tracker() {
-  const { state, toggle, replace } = useProgress();
+  const { state, toggle, replace, user, status: syncStatus, conflict, resolveConflict, cancelConflict } = useProgress();
   // Safe to read storage in initializers: only the loading placeholder renders until progress loads on the client.
   const [stepNo, setStepNo] = useState(() =>
     readStorage(STEP_KEY, 1, (v) => typeof v === "number" && v >= 1 && v <= STEPS.length),
   );
-  // Sub-steps the user explicitly opened (true) or closed (false); others fall back to "open while unsolved".
+  // Sub-steps the user opened (true) or closed (false); anything not listed starts collapsed. Saved per browser.
   const [subOpen, setSubOpen] = useState<Record<string, boolean>>(() =>
     readStorage(SUBS_KEY, {}, (v) => !!v && typeof v === "object" && !Array.isArray(v)),
   );
@@ -106,12 +108,6 @@ export default function Tracker() {
     }
   };
 
-  const resetToSnapshot = () => {
-    if (confirm("Replace your progress with the takeUforward snapshot? Ticks made here will be lost.")) {
-      replace(snapshotState());
-    }
-  };
-
   if (!state) return <div className="loading" aria-busy="true" />;
 
   const overall = count(ITEMS);
@@ -132,14 +128,18 @@ export default function Tracker() {
     .filter((s) => s.items.length > 0);
   const filtered = q !== "" || status !== "all" || diff !== "all";
 
-  const isOpen = (key: string, items: Item[]) => !!q || (subOpen[key] ?? !items.every(isDone));
+  const isOpen = (key: string) => !!q || (subOpen[key] ?? false);
+  const allOpen = step.subs.every((s) => isOpen(subKey(step.no, s.name)));
   const setAllSubs = (open: boolean) =>
     setSubOpen((o) => ({ ...o, ...Object.fromEntries(step.subs.map((s) => [subKey(step.no, s.name), open])) }));
 
   return (
     <div className="shell">
       <aside className="rail" aria-label="Steps">
-        <p className="brand">A2Z Tracker</p>
+        <div className="rail-head">
+          <p className="brand">A2Z Tracker</p>
+          <AccountLink user={user} status={syncStatus} />
+        </div>
         <ol>
           {STEPS.map((s) => {
             const c = count(s.items);
@@ -179,11 +179,19 @@ export default function Tracker() {
               </span>
             ))}
           </div>
-          <Mosaic done={done} currentStep={q ? 0 : stepNo} onPick={jumpTo} />
+          <Mosaic done={done} onPick={jumpTo} />
           <p className="mosaic-key muted">
             Squares are problems, circles are lectures. Click any one to jump to it.
           </p>
-          {upNext && (
+          {overall.done === 0 && (
+            <p className="up-next">
+              Solved some on takeUforward already?{" "}
+              <Link href="/restore" className="link">
+                Restore your progress
+              </Link>
+            </p>
+          )}
+          {upNext && overall.done > 0 && (
             <p className="up-next">
               Next unsolved:{" "}
               <button type="button" className="link" onClick={() => jumpTo(upNext)}>
@@ -249,14 +257,9 @@ export default function Tracker() {
             <span className="step-count">
               {stepCount.done} of {stepCount.total} done
             </span>
-            <span className="step-tools">
-              <button type="button" className="link" onClick={() => setAllSubs(true)}>
-                Expand all
-              </button>
-              <button type="button" className="link" onClick={() => setAllSubs(false)}>
-                Collapse all
-              </button>
-            </span>
+            <button type="button" className="step-toggle" onClick={() => setAllSubs(!allOpen)}>
+              {allOpen ? "Collapse all" : "Expand all"}
+            </button>
           </div>
         )}
 
@@ -278,7 +281,7 @@ export default function Tracker() {
         ) : (
           visible.map((sec) => {
             const c = count(sec.all);
-            const open = isOpen(sec.key, sec.all);
+            const open = isOpen(sec.key);
             return (
               <section key={sec.key} className="sub" data-open={open || undefined}>
                 <h3>
@@ -304,7 +307,7 @@ export default function Tracker() {
                         item={it}
                         done={isDone(it)}
                         flash={flashKey === itemKey(it)}
-                        showStep={!!q}
+                        showSub={!!q}
                         onToggle={toggle}
                       />
                     ))}
@@ -333,17 +336,22 @@ export default function Tracker() {
         )}
 
         <footer className="foot">
-          <p className="muted">Progress is saved in this browser.</p>
+          <p className="muted">
+            {user ? "Progress is saved in this browser and synced to your account." : "Progress is saved in this browser."}
+          </p>
           <div className="foot-actions">
+            <Link href="/account" className="link foot-account">
+              {user ? "Account" : "Sign in to sync"}
+            </Link>
             <button type="button" className="link" onClick={exportProgress}>
               Export progress
             </button>
             <button type="button" className="link" onClick={() => fileInput.current?.click()}>
               Import progress
             </button>
-            <button type="button" className="link" onClick={resetToSnapshot}>
-              Reset to takeUforward snapshot
-            </button>
+            <Link href="/restore" className="link">
+              Restore from takeUforward
+            </Link>
             <input
               ref={fileInput}
               type="file"
@@ -358,6 +366,7 @@ export default function Tracker() {
           </div>
         </footer>
       </main>
+      {conflict && <ConflictDialog conflict={conflict} onChoose={resolveConflict} onCancel={cancelConflict} />}
     </div>
   );
 }

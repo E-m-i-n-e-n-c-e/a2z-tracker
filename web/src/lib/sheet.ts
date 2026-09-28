@@ -9,8 +9,6 @@ export interface Item {
   title: string;
   kind: "practice" | "learning";
   diff: Difficulty;
-  /** Completion state in the takeUforward snapshot; only used to seed progress. */
-  done: boolean;
   dur: string;
   tuf: string;
   yt: string;
@@ -50,9 +48,10 @@ export const STEPS: Step[] = data.steps.map((name, i) => {
   return { no: i + 1, name, items, subs };
 });
 
-export const SNAPSHOT_DONE: number[] = [...new Set(ITEMS.filter((it) => it.done).map((it) => it.id))];
-
 /** Items can appear in more than one step (e.g. "Basic Hashing"), so ids alone aren't unique in the list. */
 export const itemKey = (it: Item) => `${it.step}-${it.id}`;
+
+/** Done count as the sheet shows it: per row, so an item listed in two steps counts in both. */
+export const countDone = (done: Record<string, unknown>) => ITEMS.filter((it) => String(it.id) in done).length;
 
 export const subKey = (step: number, sub: string) => `${step}:${sub}`;

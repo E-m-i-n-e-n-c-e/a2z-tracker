@@ -1,12 +1,12 @@
 # A2Z Tracker
 
-Personal tracker for Striver's A2Z DSA sheet.
+Personal tracker for Striver's A2Z DSA sheet, built with Next.js in `web/`.
 
-- `scripts/extract.py` reads a saved takeUforward sheet page (`*.html`, not committed) and writes `data/a2z.csv`, `data/a2z.json` and `web/src/data/sheet.json`.
-- `web/` is the Next.js app. Progress is stored in localStorage behind the `ProgressStore` interface in `web/src/lib/progress.ts`, so a Firebase-backed store can replace it later.
+- `web/src/data/sheet.json` is the question list (titles, links, difficulty), with no one's progress in it.
+- Progress is saved in the browser (localStorage) and starts empty. Signing in with Google is optional and syncs it through Firestore (`firestore.rules`: each user can only read and write their own document).
+- `/restore` imports solved questions from a saved takeUforward sheet page. The file is parsed in the browser and never uploaded.
 
 ```sh
-python3 scripts/extract.py "Striver's A2Z DSA Sheet & Course _ takeUforward.html"
 cd web && npm install && npm run dev
 ```
 

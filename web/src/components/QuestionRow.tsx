@@ -6,7 +6,8 @@ interface Props {
   item: Item;
   done: boolean;
   flash: boolean;
-  showStep?: boolean;
+  /** In search results rows are grouped by step, so name the sub-step. */
+  showSub?: boolean;
   onToggle: (id: number) => void;
 }
 
@@ -19,7 +20,7 @@ function IconLink({ href, label, children }: { href: string; label: string; chil
   );
 }
 
-function QuestionRow({ item, done, flash, showStep, onToggle }: Props) {
+function QuestionRow({ item, done, flash, showSub, onToggle }: Props) {
   return (
     <li id={`q-${itemKey(item)}`} className="q" data-done={done || undefined} data-flash={flash || undefined}>
       <label className="check">
@@ -47,11 +48,7 @@ function QuestionRow({ item, done, flash, showStep, onToggle }: Props) {
             item.diff && <span className={`diff diff-${item.diff.toLowerCase()}`}>{item.diff}</span>
           )}
           {item.dur && <span>{item.dur}</span>}
-          {showStep && (
-            <span>
-              Step {item.step}, {item.sub}
-            </span>
-          )}
+          {showSub && <span>{item.sub}</span>}
           {item.patterns.length > 0 && <span className="patterns">{item.patterns.join(", ")}</span>}
         </div>
       </div>

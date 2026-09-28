@@ -60,6 +60,16 @@
 
 html {
   -webkit-text-size-adjust: 100%;
+  scrollbar-width: thin;
+  scrollbar-color: var(--tile) transparent;
+}
+
+.rail {
+  scrollbar-width: none;
+}
+
+.rail::-webkit-scrollbar {
+  display: none;
 }
 
 body {
@@ -118,10 +128,9 @@ select {
 /* Layout */
 
 .shell {
+  --rail: 280px;
   display: grid;
-  grid-template-columns: 280px minmax(0, 1fr);
-  max-width: 1240px;
-  margin: 0 auto;
+  grid-template-columns: var(--rail) minmax(0, 1fr);
 }
 
 .rail {
@@ -209,8 +218,10 @@ select {
 }
 
 .main {
+  /* Side padding centres a ~960px column; the sticky toolbar uses it to span edge to edge. */
+  --pad: max(40px, calc((100vw - var(--rail) - 960px) / 2));
   min-width: 0;
-  padding: 36px 40px 64px;
+  padding: 36px var(--pad) 64px;
 }
 
 /* Overview */
@@ -275,12 +286,6 @@ select {
   display: flex;
   flex-wrap: wrap;
   gap: 3px;
-  padding-bottom: 5px;
-  border-bottom: 2px solid transparent;
-}
-
-.mosaic-step[data-current] {
-  border-bottom-color: var(--ink);
 }
 
 .tile {
@@ -331,6 +336,116 @@ select {
   text-decoration-color: currentColor;
 }
 
+/* Account: deliberately quiet; sign-in is optional. */
+
+.rail-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  margin: 0 0 20px 8px;
+}
+
+.rail-head .brand {
+  margin: 0;
+}
+
+.account-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  max-width: 120px;
+  padding: 2px 4px;
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  color: var(--muted);
+  text-decoration: none;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.account-link:hover {
+  color: var(--ink);
+}
+
+.sync-dot {
+  flex: none;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--muted);
+}
+
+.sync-dot[data-status="synced"] {
+  background: var(--easy);
+}
+
+.sync-dot[data-status="error"] {
+  background: var(--hard);
+}
+
+.sync-dot[data-status="checking"],
+.sync-dot[data-status="conflict"] {
+  background: var(--medium);
+}
+
+.dialog {
+  width: min(460px, calc(100vw - 32px));
+  padding: 24px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: var(--bg);
+  color: var(--ink);
+}
+
+.dialog::backdrop {
+  background: rgb(10 15 25 / 0.55);
+}
+
+.dialog h2 {
+  margin: 0 0 6px;
+  font-size: 20px;
+  letter-spacing: -0.01em;
+}
+
+.dialog p {
+  margin: 0 0 18px;
+  font-size: 14px;
+}
+
+.choices {
+  display: grid;
+  gap: 8px;
+  margin-bottom: 18px;
+}
+
+.choice {
+  display: grid;
+  gap: 2px;
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  text-align: left;
+  cursor: pointer;
+}
+
+.choice:hover {
+  border-color: var(--done);
+}
+
+.choice span {
+  font-size: 13px;
+  color: var(--muted);
+}
+
+.dialog > .link {
+  font-weight: 400;
+  font-size: 13px;
+  color: var(--muted);
+}
+
 /* Toolbar */
 
 .toolbar {
@@ -341,8 +456,8 @@ select {
   flex-wrap: wrap;
   gap: 10px;
   align-items: center;
-  margin: 0 -40px;
-  padding: 12px 40px;
+  margin: 0 calc(-1 * var(--pad));
+  padding: 12px var(--pad);
   background: var(--bg);
   border-bottom: 1px solid var(--line);
   scroll-margin-top: 0;
@@ -378,7 +493,12 @@ select {
   background: none;
   font-size: 14px;
   color: var(--muted);
+  white-space: nowrap;
   cursor: pointer;
+}
+
+.seg button:hover {
+  color: var(--ink);
 }
 
 .seg button[aria-checked="true"] {
@@ -406,7 +526,8 @@ select {
   flex-wrap: wrap;
   align-items: baseline;
   column-gap: 12px;
-  margin: 28px 0 8px;
+  row-gap: 8px;
+  margin: 28px 0 12px;
 }
 
 .step-no {
@@ -431,18 +552,20 @@ select {
   font-size: 14px;
 }
 
-.step-tools {
-  display: flex;
-  gap: 14px;
-  flex-basis: 100%;
-  justify-content: flex-end;
-  margin-top: 4px;
+.step-toggle {
+  height: 28px;
+  padding: 0 10px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: none;
   font-size: 13px;
+  color: var(--muted);
+  cursor: pointer;
 }
 
-.step-tools .link {
-  font-weight: 500;
-  color: var(--muted);
+.step-toggle:hover {
+  color: var(--ink);
+  border-color: var(--muted);
 }
 
 .sub {
@@ -700,6 +823,267 @@ select {
   color: var(--muted);
 }
 
+.foot .link:hover {
+  color: var(--ink);
+}
+
+.foot-account {
+  display: none;
+}
+
+/* Account page */
+
+.account-page {
+  max-width: 520px;
+  margin: 0 auto;
+  padding: 36px 16px 64px;
+}
+
+.back {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: -4px;
+  font-size: 14px;
+  color: var(--muted);
+  text-decoration: none;
+}
+
+.back:hover {
+  color: var(--ink);
+}
+
+.back-icon {
+  width: 16px;
+  height: 16px;
+  transform: rotate(90deg);
+}
+
+.account-page h1 {
+  margin: 20px 0 16px;
+  font-size: 30px;
+  letter-spacing: -0.02em;
+}
+
+.lede {
+  margin: 0 0 24px;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 24px;
+}
+
+.avatar {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: var(--done-soft);
+  color: var(--done);
+  font-weight: 700;
+  font-size: 18px;
+}
+
+.profile-text {
+  display: grid;
+  min-width: 0;
+}
+
+.profile-text span {
+  font-size: 14px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.facts {
+  margin: 0 0 24px;
+  border-top: 1px solid var(--line);
+}
+
+.facts > div {
+  display: grid;
+  grid-template-columns: 120px 1fr;
+  gap: 12px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 14px;
+}
+
+.facts dt {
+  color: var(--muted);
+}
+
+.facts dd {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0 8px;
+  margin: 0;
+  font-variant-numeric: tabular-nums;
+}
+
+.fact-error {
+  color: var(--hard);
+  font-size: 14px;
+  overflow-wrap: anywhere;
+}
+
+.account-actions {
+  display: grid;
+  justify-items: start;
+  gap: 10px;
+}
+
+.account-actions p {
+  margin: 0;
+  font-size: 13px;
+}
+
+.btn:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.btn-google {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  height: 40px;
+  padding: 0 16px;
+  font-weight: 500;
+}
+
+.google-icon {
+  width: 18px;
+  height: 18px;
+}
+
+.how {
+  margin: 28px 0 0;
+  padding: 0 0 0 18px;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.6;
+}
+
+.how li + li {
+  margin-top: 4px;
+}
+
+/* Restore page */
+
+.steps-howto {
+  margin: 0 0 20px;
+  padding: 0;
+  list-style: none;
+  counter-reset: howto;
+  line-height: 1.6;
+}
+
+.steps-howto li {
+  position: relative;
+  padding-left: 24px;
+  counter-increment: howto;
+}
+
+.steps-howto li::before {
+  content: counter(howto) ".";
+  position: absolute;
+  left: 0;
+  color: var(--muted);
+}
+
+.steps-howto li + li {
+  margin-top: 6px;
+}
+
+.steps-howto a {
+  color: var(--done);
+  font-weight: 500;
+}
+
+kbd {
+  padding: 1px 6px;
+  border: 1px solid var(--line);
+  border-bottom-width: 2px;
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  font: inherit;
+  font-size: 12px;
+}
+
+.dropzone {
+  display: grid;
+  place-items: center;
+  gap: 2px;
+  padding: 28px 16px;
+  border: 1.5px dashed var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  text-align: center;
+  cursor: pointer;
+}
+
+.dropzone:hover,
+.dropzone[data-dragging] {
+  border-color: var(--done);
+}
+
+.dropzone:focus-within {
+  outline: 2px solid var(--focus);
+  outline-offset: 2px;
+}
+
+.dropzone span {
+  font-size: 13px;
+}
+
+.paste {
+  margin-top: 14px;
+  font-size: 14px;
+}
+
+.paste summary {
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.paste textarea {
+  display: block;
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  font: inherit;
+  font-size: 13px;
+  resize: vertical;
+}
+
+.restore-msg {
+  margin: 18px 0 0;
+}
+
+.restore-ok {
+  color: var(--easy);
+}
+
+.restore-result {
+  margin-top: 24px;
+}
+
+.restore-note {
+  margin: -12px 0 16px;
+  font-size: 13px;
+}
+
 /* Narrow screens: the rail becomes a step picker in the toolbar. */
 
 @media (max-width: 900px) {
@@ -711,13 +1095,19 @@ select {
     display: none;
   }
 
+  .foot-account {
+    display: inline;
+  }
+
   .main {
+    --pad: 16px;
     padding: 24px 16px 48px;
   }
 
+  /* Too tall to pin on a phone; it would cover a third of the screen. */
   .toolbar {
-    margin: 0 -16px;
-    padding: 10px 16px;
+    position: static;
+    padding-block: 10px;
   }
 
   .step-picker {
@@ -731,12 +1121,17 @@ select {
 
   .mosaic {
     padding: 12px;
-    gap: 8px 10px;
+    gap: 6px 8px;
+  }
+
+  .mosaic-step {
+    gap: 2px;
   }
 
   .tile {
-    width: 10px;
-    height: 10px;
+    width: 7px;
+    height: 7px;
+    border-radius: 1.5px;
   }
 }
 
@@ -747,7 +1142,12 @@ select {
 
   .q-links {
     grid-column: 2;
-    margin-left: -9px;
+    margin: -4px 0 0 -9px;
+  }
+
+  /* No column alignment to keep on phones, so don't leave gaps for missing links. */
+  .icon-slot {
+    display: none;
   }
 
   .search {
@@ -755,12 +1155,21 @@ select {
   }
 
   .seg {
-    flex: 1 1 auto;
+    flex: 1 1 100%;
   }
 
   .seg button {
-    flex: 1;
+    flex: 1 1 auto;
     padding: 0 6px;
+    font-size: 13px;
+  }
+
+  .step-count {
+    margin-left: 0;
+  }
+
+  .step-head .step-toggle {
+    margin-left: auto;
   }
 
   .pager {
