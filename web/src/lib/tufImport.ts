@@ -3,7 +3,7 @@
  * Runs entirely in the browser: the saved page includes the user's session data, so it must never be uploaded.
  */
 
-export const TUF_SHEET_URL = "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet";
+export const TUF_SHEET_URL = "https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet";
 
 export interface TufImport {
   /** Item ids marked solved on takeUforward. */
