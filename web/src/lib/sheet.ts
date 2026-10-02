@@ -14,8 +14,17 @@ export interface Item {
   yt: string;
   article: string;
   lc: string;
+  /** GeeksforGeeks problem, from the old sheet; the practice link when there's no LeetCode one. */
+  gfg: string;
+  /** When one question maps to several GfG problems (e.g. floor and ceil separately). */
+  gfgOptions?: GfgOption[];
   tags: string[];
   patterns: string[];
+}
+
+export interface GfgOption {
+  title: string;
+  url: string;
 }
 
 export interface SubStep {

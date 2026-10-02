@@ -16,6 +16,18 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "web" / "src" / "data" / "sheet.json"
+# GeeksforGeeks links aren't on takeUforward anymore; they come from the old sheet (see the file's _source).
+GFG = json.loads((ROOT / "scripts" / "gfg_links.json").read_text(encoding="utf-8"))["links"]
+# Our own LeetCode links, only for questions where takeUforward has none. Never overrides theirs.
+LC_FALLBACK = json.loads((ROOT / "scripts" / "lc_links.json").read_text(encoding="utf-8"))["links"]
+
+
+def gfg_fields(qid: str) -> dict:
+    """A GfG entry is a URL, or a list of {title, url} when one question maps to several GfG problems."""
+    entry = GFG.get(qid, "")
+    if isinstance(entry, list):
+        return {"gfg": entry[0]["url"], "gfgOptions": entry}
+    return {"gfg": entry}
 BASE = "https://takeuforward.org"
 SHEET_URL = f"{BASE}/prep-hub/strivers-a2z-dsa-sheet?page=sheet"
 # takeUforward labels problems basic/core/pro; the tracker shows Easy/Medium/Hard.
@@ -114,7 +126,8 @@ def main(path: str | None):
                 "tuf": f"{BASE}/{rt.get('layoutType', kind)}/{rt.get('contentType', 'dsa')}/{rt.get('itemSlug', n['slug'])}",
                 "yt": n.get("yt_video") or "",
                 "article": abs_url(n.get("free_blog_link")),
-                "lc": n.get("leetcode_link") or "",
+                "lc": n.get("leetcode_link") or (LC_FALLBACK.get(str(n["id"]), "") if kind == "practice" else ""),
+                **(gfg_fields(str(n["id"])) if kind == "practice" else {"gfg": ""}),
                 "tags": tag_names(n.get("topic_tags"), syl),
                 "patterns": tag_names(n.get("pattern_tags"), syl),
             })
@@ -134,6 +147,9 @@ def main(path: str | None):
         summarize(json.loads(OUT.read_text(encoding="utf-8")), new)
     OUT.write_text(json.dumps(new, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
+    for qid in LC_FALLBACK:
+        if any(str(it["id"]) == qid and it["lc"] != LC_FALLBACK[qid] for it in items):
+            print(f"  note: takeUforward now has its own LeetCode link for {qid}; lc_links.json entry is unused")
     with_article = sum(1 for it in items if it["article"])
     print(f"Wrote {OUT.relative_to(ROOT)}: {len(steps)} steps, {len(items)} items, {with_article} with articles")
 

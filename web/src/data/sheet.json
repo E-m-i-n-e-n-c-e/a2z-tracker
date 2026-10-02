@@ -34,6 +34,7 @@
       "yt": "https://youtu.be/qbwJ1U6I-IU",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/breaking-the-myth-dsa-is-language-independent",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -49,6 +50,7 @@
       "yt": "https://youtu.be/y_tiNJXgA2U",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/programming-and-computers",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -64,6 +66,7 @@
       "yt": "https://youtu.be/iv7jtDODKrg",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/how-to-think-like-a-programmer",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -79,6 +82,7 @@
       "yt": "https://youtu.be/ynlGEO4bhiI",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/flowcharts-and-pseudocode",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -94,6 +98,7 @@
       "yt": "https://youtu.be/usbMw83zi4c",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/flowchart-problem-solving",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -109,6 +114,7 @@
       "yt": "https://youtu.be/Chf3JhFO4nU",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/dry-runs-edge-cases-and-debugging",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -124,6 +130,7 @@
       "yt": "https://youtu.be/qY_PY3o-pd4",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/programming-languages-and-choosing-a-path",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -139,6 +146,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -154,6 +162,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -169,6 +178,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -184,6 +194,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -199,6 +210,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -214,6 +226,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/print-square-wall-1605682270/1",
       "tags": [],
       "patterns": []
     },
@@ -229,6 +242,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/right-angle-triangle-1605685807/1",
       "tags": [],
       "patterns": []
     },
@@ -244,6 +258,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/right-angled-number-triangle/1",
       "tags": [],
       "patterns": []
     },
@@ -259,6 +274,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -274,6 +290,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/inverted-right-angletriangle-1605691171--104349/1",
       "tags": [],
       "patterns": []
     },
@@ -289,6 +306,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -304,6 +322,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/pyramid-patterns/1",
       "tags": [],
       "patterns": []
     },
@@ -319,6 +338,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/inverted-triangle-of-stars0110/1",
       "tags": [],
       "patterns": []
     },
@@ -334,6 +354,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/pattern/1",
       "tags": [],
       "patterns": []
     },
@@ -349,6 +370,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/triangle-pattern-1661718013/1",
       "tags": [],
       "patterns": []
     },
@@ -364,6 +386,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -379,6 +402,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/double-triangle-pattern-1662664259/1",
       "tags": [],
       "patterns": []
     },
@@ -394,6 +418,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/floyds-triangle1222/1",
       "tags": [],
       "patterns": []
     },
@@ -409,6 +434,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -424,6 +450,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -439,6 +466,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -454,6 +482,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -469,6 +498,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -484,6 +514,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/double-triangle-pattern/1",
       "tags": [],
       "patterns": []
     },
@@ -499,6 +530,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/butterfly-pattern/1",
       "tags": [],
       "patterns": []
     },
@@ -514,6 +546,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/print-square--105330/1",
       "tags": [],
       "patterns": []
     },
@@ -529,6 +562,7 @@
       "yt": "https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=3",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/square-pattern-1662666141/1",
       "tags": [],
       "patterns": []
     },
@@ -544,6 +578,7 @@
       "yt": "https://youtu.be/FPu9Uld7W-E",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -559,6 +594,7 @@
       "yt": "https://www.youtube.com/watch?v=RRVYpIET_RU",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -574,6 +610,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -589,6 +626,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -604,6 +642,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -619,6 +658,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -634,6 +674,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/array-basics",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -649,6 +690,7 @@
       "yt": "https://www.youtube.com/watch?v=KEs5UyBJ39g",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/hashing-data-structures",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -664,6 +706,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/string-introduction-vowels-consonants-search-frequency-reverse-and-case-conversion",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -679,6 +722,7 @@
       "yt": "https://youtu.be/1xNbjMdbjug",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-digits-in-a-number",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/count-digits5716/1",
       "tags": [
         "Mathematics"
       ],
@@ -698,6 +742,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-odd-digits-in-a-number",
       "lc": "",
+      "gfg": "",
       "tags": [
         "Mathematics"
       ],
@@ -717,6 +762,7 @@
       "yt": "https://youtu.be/1xNbjMdbjug?t=930",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/reverse-digits-of-a-number",
       "lc": "https://leetcode.com/problems/reverse-integer/",
+      "gfg": "https://www.geeksforgeeks.org/problems/reverse-bits3556/1",
       "tags": [
         "Mathematics"
       ],
@@ -736,6 +782,7 @@
       "yt": "https://youtu.be/1xNbjMdbjug?t=1230",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-whether-a-number-is-a-palindrome",
       "lc": "https://leetcode.com/problems/palindrome-number/",
+      "gfg": "https://www.geeksforgeeks.org/problems/palindrome0746/1",
       "tags": [
         "Mathematics"
       ],
@@ -755,6 +802,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-largest-digit-in-a-number",
       "lc": "",
+      "gfg": "",
       "tags": [
         "Mathematics"
       ],
@@ -774,6 +822,7 @@
       "yt": "https://www.youtube.com/watch?v=69ZCDFy-OUo&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=3",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/factorial-of-a-number",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/factorial5739/1",
       "tags": [
         "Recursion & Backtracking"
       ],
@@ -793,6 +842,7 @@
       "yt": "https://youtu.be/1xNbjMdbjug?t=1418",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/armstrong-number",
       "lc": "https://leetcode.com/problems/armstrong-number/",
+      "gfg": "https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1",
       "tags": [
         "Mathematics"
       ],
@@ -812,6 +862,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/perfect-number",
       "lc": "https://leetcode.com/problems/perfect-number/",
+      "gfg": "",
       "tags": [
         "Mathematics"
       ],
@@ -831,6 +882,7 @@
       "yt": "https://youtu.be/1xNbjMdbjug?t=2381",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-whether-a-number-is-prime",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1",
       "tags": [
         "Mathematics"
       ],
@@ -850,6 +902,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/count-primes/",
+      "gfg": "",
       "tags": [
         "Mathematics"
       ],
@@ -869,6 +922,7 @@
       "yt": "https://youtu.be/1xNbjMdbjug?t=2684",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/gcd-euclidean-algorithm",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1",
       "tags": [
         "Mathematics",
         "Arrays"
@@ -889,6 +943,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/lcm-of-two-numbers/1",
       "tags": [
         "Mathematics"
       ],
@@ -908,6 +963,7 @@
       "yt": "https://youtu.be/1xNbjMdbjug?t=1580",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-divisors",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1",
       "tags": [
         "Mathematics",
         "Bit Manipulation"
@@ -928,6 +984,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sum-of-array",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/sum-all-array-elements/1",
       "tags": [
         "Arrays"
       ],
@@ -947,6 +1004,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/odd-elements-in-an-array",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/count-odd-even/1",
       "tags": [
         "Arrays"
       ],
@@ -966,6 +1024,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-if-an-array-is-sorted-in-ascending-order",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1",
       "tags": [
         "Arrays"
       ],
@@ -985,6 +1044,7 @@
       "yt": "https://www.youtube.com/watch?v=twuC1F6gLI8&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=4",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/reverse-an-array/0",
       "tags": [
         "Recursion & Backtracking"
       ],
@@ -1004,6 +1064,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/highest-freq-element",
       "lc": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+      "gfg": "https://www.geeksforgeeks.org/problems/top-k-frequent-elements-in-array/1",
       "tags": [
         "Hashing"
       ],
@@ -1023,6 +1084,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/second-highest-occurring-element",
       "lc": "",
+      "gfg": "",
       "tags": [
         "Hashing",
         "Arrays"
@@ -1043,6 +1105,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [
         "Hashing"
       ],
@@ -1062,6 +1125,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/reverse-string/",
+      "gfg": "",
       "tags": [
         "Strings"
       ],
@@ -1081,6 +1145,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/valid-palindrome",
       "lc": "https://leetcode.com/problems/valid-palindrome/",
+      "gfg": "",
       "tags": [
         "Strings"
       ],
@@ -1100,6 +1165,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/largest-odd-number-in-string/",
+      "gfg": "https://www.geeksforgeeks.org/problems/largest-odd-number-in-string/1",
       "tags": [
         "Greedy Algorithms",
         "Strings",
@@ -1121,6 +1187,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/longest-common-prefix/",
+      "gfg": "https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1",
       "tags": [
         "Tries",
         "Arrays",
@@ -1142,6 +1209,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/isomorphic-strings/",
+      "gfg": "https://www.geeksforgeeks.org/problems/isomorphic-strings-1587115620/1",
       "tags": [
         "Strings",
         "Hashing"
@@ -1162,6 +1230,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/rotate-string/",
+      "gfg": "https://www.geeksforgeeks.org/problems/check-if-strings-are-rotations-of-each-other-or-not-1587115620/1",
       "tags": [
         "Strings"
       ],
@@ -1181,6 +1250,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-if-two-strings-are-anagrams",
       "lc": "https://leetcode.com/problems/valid-anagram/",
+      "gfg": "",
       "tags": [
         "Hashing",
         "Strings"
@@ -1201,6 +1271,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sort-characters-by-frequency",
       "lc": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "gfg": "https://www.geeksforgeeks.org/problems/sorting-elements-of-an-array-by-frequency/0",
       "tags": [
         "Strings",
         "Hashing",
@@ -1222,6 +1293,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -1237,6 +1309,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -1252,6 +1325,7 @@
       "yt": "https://www.youtube.com/watch?v=69ZCDFy-OUo&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=3",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1",
       "tags": [
         "Recursion & Backtracking"
       ],
@@ -1271,6 +1345,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/factorial-of-a-number-using-recursion",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/factorial5739/1",
       "tags": [
         "Recursion & Backtracking",
         "Mathematics"
@@ -1291,6 +1366,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/sum-all-array-elements/1",
       "tags": [
         "Arrays"
       ],
@@ -1310,6 +1386,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/reverse-string/",
+      "gfg": "",
       "tags": [
         "Strings"
       ],
@@ -1329,6 +1406,7 @@
       "yt": "https://www.youtube.com/watch?v=twuC1F6gLI8&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=4",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-whether-a-string-is-a-palindrome",
       "lc": "https://leetcode.com/problems/valid-palindrome/",
+      "gfg": "https://www.geeksforgeeks.org/problems/palindrome-string0817/1",
       "tags": [
         "Recursion & Backtracking",
         "Strings"
@@ -1349,6 +1427,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/prime-number2314/1",
       "tags": [
         "Mathematics"
       ],
@@ -1368,6 +1447,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/reversing-an-array-using-recursion",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/reverse-an-array/0",
       "tags": [
         "Arrays"
       ],
@@ -1387,6 +1467,7 @@
       "yt": "https://youtu.be/37E9ckMDdTk?t=17224",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-if-an-array-is-sorted-in-ascending-order",
       "lc": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/#:~:text=Input%3A%20nums%20%3D%20%5B2%2C,no%20rotation)%20to%20make%20nums.",
+      "gfg": "",
       "tags": [
         "Arrays"
       ],
@@ -1406,6 +1487,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sum-of-digits-of-a-number-using-recursion",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/digital-root/1",
       "tags": [
         "Mathematics"
       ],
@@ -1425,6 +1507,7 @@
       "yt": "https://www.youtube.com/watch?v=kvRjNm4rVBE&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=5",
       "article": "",
       "lc": "https://leetcode.com/problems/fibonacci-number/",
+      "gfg": "https://www.geeksforgeeks.org/problems/print-first-n-fibonacci-numbers1002/1",
       "tags": [
         "Dynamic Programming",
         "Recursion & Backtracking",
@@ -1446,6 +1529,7 @@
       "yt": "https://youtu.be/HGk_ypEuS24?t=167",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/selection-sort-algorithm",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/selection-sort/1",
       "tags": [
         "Sorting",
         "Arrays"
@@ -1466,6 +1550,7 @@
       "yt": "https://youtu.be/HGk_ypEuS24?t=1061",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/bubble-sort-algorithm",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/bubble-sort/1",
       "tags": [
         "Sorting",
         "Arrays"
@@ -1486,6 +1571,7 @@
       "yt": "https://youtu.be/HGk_ypEuS24?t=1900",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/insertion-sort-algorithm",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/insertion-sort/0",
       "tags": [
         "Sorting",
         "Arrays"
@@ -1506,6 +1592,7 @@
       "yt": "https://youtu.be/ogjf7ORKfd8",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/merge-sort-algorithm",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/merge-sort/1",
       "tags": [
         "Sorting",
         "Arrays"
@@ -1526,6 +1613,7 @@
       "yt": "https://youtu.be/WIrA4YexLRQ",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/quick-sort-algorithm",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/quick-sort/1",
       "tags": [
         "Sorting",
         "Arrays"
@@ -1546,6 +1634,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/bubble-sort/1",
       "tags": [
         "Sorting",
         "Arrays",
@@ -1567,6 +1656,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/insertion-sort/1",
       "tags": [
         "Sorting",
         "Arrays",
@@ -1588,6 +1678,7 @@
       "yt": "https://youtu.be/wvcQg43_V8U?t=2465",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/linear-search-algorithm",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1",
       "tags": [
         "Arrays"
       ],
@@ -1607,6 +1698,7 @@
       "yt": "https://youtu.be/37E9ckMDdTk?t=526",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-largest-element-in-an-array",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0",
       "tags": [
         "Arrays"
       ],
@@ -1626,6 +1718,7 @@
       "yt": "https://youtu.be/37E9ckMDdTk?t=810",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/second-largest-element",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/second-largest3735/1",
       "tags": [
         "Arrays"
       ],
@@ -1645,6 +1738,7 @@
       "yt": "https://youtu.be/bYWLJb3vCWY?t=1124",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-consecutive-ones-in-a-binary-array",
       "lc": "https://leetcode.com/problems/max-consecutive-ones/",
+      "gfg": "https://www.geeksforgeeks.org/problems/maximize-number-of-1s0905/1",
       "tags": [
         "Arrays"
       ],
@@ -1664,6 +1758,7 @@
       "yt": "https://youtu.be/wvcQg43_V8U?t=61",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/left-rotate-array-by-one",
       "lc": "https://leetcode.com/problems/rotate-array/",
+      "gfg": "https://www.geeksforgeeks.org/problems/quick-left-rotation3806/1",
       "tags": [
         "Arrays"
       ],
@@ -1683,6 +1778,7 @@
       "yt": "https://youtu.be/wvcQg43_V8U?t=485",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/left-rotate-array-by-k-places",
       "lc": "https://leetcode.com/problems/rotate-array/",
+      "gfg": "https://www.geeksforgeeks.org/problems/reversal-algorithm5340/1",
       "tags": [
         "Arrays"
       ],
@@ -1702,6 +1798,7 @@
       "yt": "https://youtu.be/wvcQg43_V8U?t=1633",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/move-zeros-to-the-end-of-an-array",
       "lc": "https://leetcode.com/problems/move-zeroes/",
+      "gfg": "https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1",
       "tags": [
         "Arrays"
       ],
@@ -1721,6 +1818,7 @@
       "yt": "https://youtu.be/37E9ckMDdTk?t=1887",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/remove-duplicates-from-a-sorted-array-in-place",
       "lc": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+      "gfg": "https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1",
       "tags": [
         "Arrays"
       ],
@@ -1740,6 +1838,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/missing-number-solutions",
       "lc": "https://leetcode.com/problems/missing-number/",
+      "gfg": "https://www.geeksforgeeks.org/problems/missing-number4257/1",
       "tags": [
         "Bit Manipulation",
         "Arrays"
@@ -1760,6 +1859,7 @@
       "yt": "https://youtu.be/wvcQg43_V8U?t=2584",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/union-of-two-sorted-arrays",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1",
       "tags": [
         "Arrays"
       ],
@@ -1778,7 +1878,8 @@
       "tuf": "https://takeuforward.org/practice/dsa/intersection-of-two-sorted-arrays",
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/intersection-of-two-arrays",
-      "lc": "",
+      "lc": "https://leetcode.com/problems/intersection-of-two-arrays-ii/",
+      "gfg": "",
       "tags": [
         "Arrays"
       ],
@@ -1798,6 +1899,7 @@
       "yt": "https://youtu.be/nP_ns3uSh80",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/majority-element-n-by-2",
       "lc": "https://leetcode.com/problems/majority-element/",
+      "gfg": "https://www.geeksforgeeks.org/problems/majority-element-1587115620/1",
       "tags": [
         "Arrays"
       ],
@@ -1817,6 +1919,7 @@
       "yt": "https://youtu.be/cHrH9CQ8pmY",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/leaders-in-an-array",
       "lc": "https://leetcode.com/problems/buildings-with-an-ocean-view/",
+      "gfg": "https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1",
       "tags": [
         "Arrays"
       ],
@@ -1836,6 +1939,7 @@
       "yt": "https://youtu.be/h4aBagy4Uok",
       "article": "",
       "lc": "https://leetcode.com/problems/rearrange-array-elements-by-sign/",
+      "gfg": "https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1",
       "tags": [
         "Arrays"
       ],
@@ -1855,6 +1959,7 @@
       "yt": "https://youtu.be/3Zv-s9UUrFM",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/spiral-traversal-of-a-matrix",
       "lc": "https://leetcode.com/problems/spiral-matrix/",
+      "gfg": "https://www.geeksforgeeks.org/problems/spiral-matrix--141631/1",
       "tags": [
         "Arrays"
       ],
@@ -1874,6 +1979,7 @@
       "yt": "https://youtu.be/bR7mQgwQ_o8",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/pascals-triangle-first-n-rows",
       "lc": "https://leetcode.com/problems/pascals-triangle/",
+      "gfg": "",
       "tags": [
         "Arrays",
         "Mathematics"
@@ -1894,6 +2000,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/pascal-triangle-ii",
       "lc": "https://leetcode.com/problems/pascals-triangle-ii/",
+      "gfg": "",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -1914,6 +2021,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/pascals-triangle-first-n-rows",
       "lc": "",
+      "gfg": "",
       "tags": [
         "Mathematics",
         "Arrays"
@@ -1934,6 +2042,7 @@
       "yt": "https://youtu.be/Z0R2u6gd3GU",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/rotate-matrix-90-degrees-clockwise",
       "lc": "https://leetcode.com/problems/rotate-image/",
+      "gfg": "https://www.geeksforgeeks.org/problems/rotate-by-90-degree-1587115621/1",
       "tags": [
         "Arrays"
       ],
@@ -1953,6 +2062,7 @@
       "yt": "https://youtu.be/N0MgLvceX7M",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/set-matrix-zeroes",
       "lc": "https://leetcode.com/problems/set-matrix-zeroes/",
+      "gfg": "",
       "tags": [
         "Arrays",
         "Hashing"
@@ -1973,6 +2083,7 @@
       "yt": "https://youtu.be/UXDSeD9mN-k",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/two-sum",
       "lc": "https://leetcode.com/problems/two-sum/",
+      "gfg": "https://www.geeksforgeeks.org/problems/find-all-pairs-whose-sum-is-x5808/1",
       "tags": [
         "Hashing",
         "Arrays"
@@ -1993,6 +2104,7 @@
       "yt": "https://youtu.be/DhFh8Kw7ymk",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/3sum",
       "lc": "https://leetcode.com/problems/3sum/",
+      "gfg": "https://www.geeksforgeeks.org/problems/3-sum-closest/1",
       "tags": [
         "Arrays"
       ],
@@ -2013,6 +2125,7 @@
       "yt": "https://youtu.be/eD95WRfh81c",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/4sum",
       "lc": "https://leetcode.com/problems/4sum/",
+      "gfg": "https://www.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1",
       "tags": [
         "Arrays"
       ],
@@ -2033,6 +2146,7 @@
       "yt": "https://youtu.be/tp8JIuCXBaU",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sort-array-0s-1s-2s",
       "lc": "https://leetcode.com/problems/sort-colors/",
+      "gfg": "https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1",
       "tags": [
         "Sorting",
         "Arrays"
@@ -2053,6 +2167,7 @@
       "yt": "https://youtu.be/AHZpyENo7k4",
       "article": "",
       "lc": "https://leetcode.com/problems/maximum-subarray/",
+      "gfg": "https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/0",
       "tags": [
         "Arrays"
       ],
@@ -2072,6 +2187,7 @@
       "yt": "https://youtu.be/JDOXKqF60RQ",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/next-permutation",
       "lc": "https://leetcode.com/problems/next-permutation/",
+      "gfg": "https://www.geeksforgeeks.org/problems/next-permutation5226/1",
       "tags": [
         "Arrays"
       ],
@@ -2091,6 +2207,7 @@
       "yt": "https://youtu.be/vwZj1K0e9U8",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/majority-element-ii-n-by-3",
       "lc": "https://leetcode.com/problems/majority-element-ii/",
+      "gfg": "",
       "tags": [
         "Arrays",
         "Hashing"
@@ -2111,6 +2228,7 @@
       "yt": "https://youtu.be/2D0D8HE6uak",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-missing-and-repeating-numbers-in-an-array",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1",
       "tags": [
         "Sorting",
         "Arrays"
@@ -2131,6 +2249,7 @@
       "yt": "https://youtu.be/AseUmwVNaoY",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-inversions-in-an-array-using-merge-sort",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1",
       "tags": [
         "Arrays"
       ],
@@ -2150,6 +2269,7 @@
       "yt": "https://youtu.be/0e4bZaP3MDI",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-reverse-pairs",
       "lc": "https://leetcode.com/problems/reverse-pairs/",
+      "gfg": "https://www.geeksforgeeks.org/problems/pairwise-swap-elements-of-a-linked-list-by-swapping-data/1",
       "tags": [
         "Arrays"
       ],
@@ -2169,6 +2289,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-product-subarray",
       "lc": "https://leetcode.com/problems/maximum-product-subarray/",
+      "gfg": "https://www.geeksforgeeks.org/problems/maximum-product-subarray3604/0",
       "tags": [
         "Arrays"
       ],
@@ -2188,6 +2309,7 @@
       "yt": "https://youtu.be/n7uwj04E0I4",
       "article": "",
       "lc": "https://leetcode.com/problems/merge-sorted-array/",
+      "gfg": "https://www.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1",
       "tags": [
         "Arrays"
       ],
@@ -2208,6 +2330,7 @@
       "yt": "https://www.youtube.com/watch?v=KEs5UyBJ39g",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/hashing-data-structures",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -2223,6 +2346,7 @@
       "yt": "https://youtu.be/oO5uLE7EUlM",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-consecutive-sequence-in-an-array",
       "lc": "https://leetcode.com/problems/longest-consecutive-sequence/",
+      "gfg": "https://www.geeksforgeeks.org/problems/longest-consecutive-subsequence2449/0",
       "tags": [
         "Hashing",
         "Arrays",
@@ -2244,6 +2368,7 @@
       "yt": "https://youtu.be/frf7qxiN2qU",
       "article": "",
       "lc": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/",
+      "gfg": "https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1",
       "tags": [
         "Arrays",
         "Hashing"
@@ -2264,6 +2389,7 @@
       "yt": "https://www.youtube.com/watch?v=xmguZ6GbatA&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=23",
       "article": "",
       "lc": "https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/",
+      "gfg": "",
       "tags": [
         "Arrays",
         "Hashing"
@@ -2284,6 +2410,7 @@
       "yt": "https://www.youtube.com/watch?v=xvNwoz-ufXA&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=32",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-subarrays-with-given-sum",
       "lc": "https://leetcode.com/problems/subarray-sum-equals-k/",
+      "gfg": "",
       "tags": [
         "Arrays",
         "Hashing"
@@ -2304,6 +2431,7 @@
       "yt": "https://youtu.be/eZr-6p0B7ME",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-subarrays-with-a-given-xor-k",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/subsets-with-xor-value2023/1",
       "tags": [
         "Bit Manipulation",
         "Arrays"
@@ -2324,6 +2452,7 @@
       "yt": "https://youtu.be/MHf6awe89xw",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-search-algorithm",
       "lc": "https://leetcode.com/problems/binary-search/",
+      "gfg": "https://www.geeksforgeeks.org/problems/binary-search-1587115620/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2344,6 +2473,7 @@
       "yt": "https://youtu.be/6zhGS79oQ4k",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/lower-bound-in-sorted-array",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2364,6 +2494,7 @@
       "yt": "https://youtu.be/6zhGS79oQ4k",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/upper-bound-in-sorted-array",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/ceil-the-floor2802/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2384,6 +2515,7 @@
       "yt": "https://youtu.be/6zhGS79oQ4k",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/search-insert-position",
       "lc": "https://leetcode.com/problems/search-insert-position/",
+      "gfg": "https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2404,6 +2536,17 @@
       "yt": "https://www.youtube.com/watch?v=6zhGS79oQ4k&list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF&index=3",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1",
+      "gfgOptions": [
+        {
+          "title": "Floor in Sorted Array",
+          "url": "https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1"
+        },
+        {
+          "title": "Ceil in Sorted Array",
+          "url": "https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1"
+        }
+      ],
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2424,6 +2567,7 @@
       "yt": "https://youtu.be/hjR1IYVx9lY",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/last-occurrence-in-a-sorted-array",
       "lc": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/",
+      "gfg": "https://www.geeksforgeeks.org/problems/first-and-last-occurrences-of-x3116/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2444,6 +2588,7 @@
       "yt": "https://www.youtube.com/watch?v=r3pMQ8-Ad5s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=64",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/search-in-rotated-sorted-array",
       "lc": "https://leetcode.com/problems/search-in-rotated-sorted-array/",
+      "gfg": "https://www.geeksforgeeks.org/problems/search-in-a-rotated-array4618/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2464,6 +2609,7 @@
       "yt": "https://youtu.be/w2G2W8l__pc",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/search-in-rotated-sorted-array-ii",
       "lc": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/search-in-rotated-array-2/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2484,6 +2630,7 @@
       "yt": "https://youtu.be/nhEMDKMB44g",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-minimum-in-rotated-sorted-array",
       "lc": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
+      "gfg": "https://www.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2504,6 +2651,7 @@
       "yt": "https://youtu.be/jtSiWTPLwd0",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/rotation-count-sorted-array",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/rotation4723/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2524,6 +2672,7 @@
       "yt": "https://youtu.be/AZOmHuHadxQ",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/single-element-in-a-sorted-array",
       "lc": "https://leetcode.com/problems/single-element-in-a-sorted-array/",
+      "gfg": "https://www.geeksforgeeks.org/problems/find-the-element-that-appears-once-in-sorted-array0624/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2544,6 +2693,7 @@
       "yt": "https://youtu.be/hjR1IYVx9lY",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-occurrences-in-a-sorted-array",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2564,6 +2714,7 @@
       "yt": "https://youtu.be/Bsv3FPUX_BA",
       "article": "",
       "lc": "https://leetcode.com/problems/sqrtx/",
+      "gfg": "https://www.geeksforgeeks.org/problems/square-root/0",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2584,6 +2735,7 @@
       "yt": "https://www.youtube.com/watch?v=WjpswYrS2nY&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=62",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/find-nth-root-of-m5843/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2604,6 +2756,7 @@
       "yt": "https://youtu.be/UvBKTVaG6U8",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-smallest-divisor-given-a-threshold",
       "lc": "https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/",
+      "gfg": "https://www.geeksforgeeks.org/problems/smallest-divisor/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2624,6 +2777,7 @@
       "yt": "https://youtu.be/qyfekrNni90",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/koko-eating-bananas",
       "lc": "https://leetcode.com/problems/koko-eating-bananas/",
+      "gfg": "https://www.geeksforgeeks.org/problems/koko-eating-bananas/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2644,6 +2798,7 @@
       "yt": "https://youtu.be/TXAuxeYBTdg",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-days-to-make-m-bouquets",
       "lc": "https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/",
+      "gfg": "https://www.geeksforgeeks.org/problems/minimum-days-to-make-m-bouquets/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2664,6 +2819,7 @@
       "yt": "https://youtu.be/MG-Ac4TAvTY",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/capacity-to-ship-packages-within-d-days",
       "lc": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/",
+      "gfg": "https://www.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-days/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2684,6 +2840,7 @@
       "yt": "https://youtu.be/uZ0N_hZpyps",
       "article": "",
       "lc": "https://leetcode.com/problems/kth-missing-positive-number/",
+      "gfg": "https://www.geeksforgeeks.org/problems/k-th-missing-element3635/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2704,6 +2861,7 @@
       "yt": "https://www.youtube.com/watch?v=thUd_WJn6wk&list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF&index=20",
       "article": "",
       "lc": "https://leetcode.com/problems/split-array-largest-sum/",
+      "gfg": "",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2724,6 +2882,7 @@
       "yt": "https://youtu.be/R_Mfw4ew-Vo",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/aggressive-cows",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/aggressive-cows/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2744,6 +2903,7 @@
       "yt": "https://www.youtube.com/watch?v=gYmWHvRHu-s&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=69",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/book-allocation-problem",
       "lc": "https://leetcode.com/problems/split-array-largest-sum/",
+      "gfg": "https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2764,6 +2924,7 @@
       "yt": "https://youtu.be/cXxmbemS6XM",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-a-peak-element-in-an-array",
       "lc": "https://leetcode.com/problems/find-peak-element/",
+      "gfg": "https://www.geeksforgeeks.org/problems/peak-element/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2784,6 +2945,7 @@
       "yt": "https://www.youtube.com/watch?v=NTop3VTjmxk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=65",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/median-of-2-sorted-arrays",
       "lc": "https://leetcode.com/problems/median-of-two-sorted-arrays/",
+      "gfg": "https://www.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-different-sizes/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2804,6 +2966,7 @@
       "yt": "https://www.youtube.com/watch?v=nv7F4PiLUzo&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=66",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/kth-element-of-two-sorted-arrays",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2824,6 +2987,7 @@
       "yt": "https://www.youtube.com/watch?v=kMSBvlZ-_HA&list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF&index=21",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimize-maximum-distance-between-gas-stations",
       "lc": "https://leetcode.com/problems/minimize-max-distance-to-gas-station/",
+      "gfg": "https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2844,6 +3008,7 @@
       "yt": "https://www.youtube.com/watch?v=thUd_WJn6wk&list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF&index=20",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/split-array-largest-sum",
       "lc": "https://leetcode.com/problems/split-array-largest-sum/",
+      "gfg": "https://www.geeksforgeeks.org/problems/largest-sum-subarray-of-size-at-least-k3121/1",
       "tags": [
         "Binary Search",
         "Dynamic Programming",
@@ -2865,6 +3030,7 @@
       "yt": "https://youtu.be/SCz-1TtYxDI",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-row-with-maximum-1s-in-a-sorted-binary-matrix",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/row-with-max-1s0023/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2885,6 +3051,7 @@
       "yt": "https://youtu.be/ZYpYur0znng",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/search-in-sorted-2d-matrix",
       "lc": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "gfg": "https://www.geeksforgeeks.org/problems/search-in-a-matrix17201720/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2905,6 +3072,7 @@
       "yt": "https://youtu.be/9ZbB397jU4k",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/search-in-a-row-and-column-wise-sorted-matrix",
       "lc": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+      "gfg": "",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2925,6 +3093,7 @@
       "yt": "https://youtu.be/nGGp5XBzC4g?si=WCop5C6Azj5gAELH",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-peak-element-2d-matrix",
       "lc": "https://leetcode.com/problems/find-a-peak-element-ii/",
+      "gfg": "",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2945,6 +3114,7 @@
       "yt": "https://youtu.be/Q9wXgdxJq48?si=ScI_0uzJh7yg8nrX",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/median-of-a-row-wise-sorted-matrix",
       "lc": "https://leetcode.com/problems/median-of-a-row-wise-sorted-matrix/",
+      "gfg": "https://www.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1",
       "tags": [
         "Binary Search",
         "Arrays"
@@ -2965,6 +3135,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/remove-outermost-parentheses/",
+      "gfg": "",
       "tags": [
         "Stack & Queues",
         "Strings"
@@ -2985,6 +3156,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/",
+      "gfg": "",
       "tags": [
         "Stack & Queues",
         "Strings"
@@ -3005,6 +3177,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/roman-to-integer/",
+      "gfg": "",
       "tags": [
         "Strings",
         "Hashing",
@@ -3026,6 +3199,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/string-to-integer-atoi/",
+      "gfg": "",
       "tags": [
         "Strings"
       ],
@@ -3045,6 +3219,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -3060,6 +3235,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "gfg": "",
       "tags": [
         "Strings",
         "Dynamic Programming"
@@ -3080,6 +3256,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/sum-of-beauty-of-all-substrings/",
+      "gfg": "",
       "tags": [
         "Strings",
         "Hashing"
@@ -3100,6 +3277,7 @@
       "yt": "https://youtu.be/l0YC3876qxg",
       "article": "",
       "lc": "https://leetcode.com/problems/powx-n/",
+      "gfg": "https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1",
       "tags": [
         "Mathematics",
         "Recursion & Backtracking"
@@ -3120,6 +3298,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/generate-parentheses/",
+      "gfg": "",
       "tags": [
         "Recursion & Backtracking",
         "Dynamic Programming",
@@ -3141,6 +3320,7 @@
       "yt": "https://www.youtube.com/watch?v=b7AYbpM5YrE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=67",
       "article": "",
       "lc": "https://leetcode.com/problems/subsets/",
+      "gfg": "https://www.geeksforgeeks.org/problems/power-set4302/1",
       "tags": [
         "Recursion & Backtracking"
       ],
@@ -3160,6 +3340,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-good-numbers",
       "lc": "https://leetcode.com/problems/count-good-numbers/",
+      "gfg": "https://www.geeksforgeeks.org/problems/good-numbers4629/1",
       "tags": [
         "Mathematics",
         "Recursion & Backtracking"
@@ -3180,6 +3361,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/reverse-a-stack/1",
       "tags": [
         "Recursion & Backtracking"
       ],
@@ -3199,6 +3381,7 @@
       "yt": "https://www.youtube.com/watch?v=eQCS_v3bw0Q&list=PLgUwDviBIf0rGlzIn_7rsaR2FQ5e6ZOL9&index=7",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -3214,6 +3397,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/check-if-there-exists-a-subsequence-with-sum-k/1",
       "tags": [
         "Recursion & Backtracking"
       ],
@@ -3233,6 +3417,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1",
       "tags": [
         "Recursion & Backtracking"
       ],
@@ -3251,7 +3436,8 @@
       "tuf": "https://takeuforward.org/practice/dsa/generate-binary-strings-without-consecutive-1s",
       "yt": "",
       "article": "",
-      "lc": "",
+      "lc": "https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/",
+      "gfg": "",
       "tags": [
         "Recursion & Backtracking",
         "Strings"
@@ -3272,6 +3458,7 @@
       "yt": "https://www.youtube.com/watch?v=OyZFFqQtu98&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=49",
       "article": "",
       "lc": "https://leetcode.com/problems/combination-sum/",
+      "gfg": "https://www.geeksforgeeks.org/problems/combination-sum-1587115620/1",
       "tags": [
         "Recursion & Backtracking",
         "Arrays"
@@ -3292,6 +3479,7 @@
       "yt": "https://www.youtube.com/watch?v=G1fRTGRxXU8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=50",
       "article": "",
       "lc": "https://leetcode.com/problems/combination-sum-ii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/combination-sum-ii/1",
       "tags": [
         "Recursion & Backtracking",
         "Arrays"
@@ -3312,6 +3500,7 @@
       "yt": "https://www.youtube.com/watch?v=rYkfBRtMJr8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=52",
       "article": "",
       "lc": "https://leetcode.com/problems/subsets/",
+      "gfg": "https://www.geeksforgeeks.org/problems/subset-sums2234/1",
       "tags": [
         "Recursion & Backtracking",
         "Arrays"
@@ -3332,6 +3521,7 @@
       "yt": "https://www.youtube.com/watch?v=RIn3gOkbhQE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=53",
       "article": "",
       "lc": "https://leetcode.com/problems/subsets-ii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/subset-sum-ii/1",
       "tags": [
         "Recursion & Backtracking",
         "Arrays",
@@ -3353,6 +3543,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/combination-sum-iii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/combination-sum-iii/1",
       "tags": [
         "Recursion & Backtracking",
         "Arrays"
@@ -3373,6 +3564,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/letter-combinations-of-a-phone-number/",
+      "gfg": "https://www.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1",
       "tags": [
         "Recursion & Backtracking",
         "Strings",
@@ -3394,6 +3586,7 @@
       "yt": "https://youtu.be/_H8V5hJUGd0",
       "article": "",
       "lc": "https://leetcode.com/problems/palindrome-partitioning/",
+      "gfg": "https://www.geeksforgeeks.org/problems/palindromic-patitioning4845/1",
       "tags": [
         "Recursion & Backtracking",
         "Dynamic Programming",
@@ -3415,6 +3608,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/word-search/",
+      "gfg": "https://www.geeksforgeeks.org/problems/word-search/1",
       "tags": [
         "Recursion & Backtracking",
         "Strings",
@@ -3436,6 +3630,7 @@
       "yt": "https://www.youtube.com/watch?v=i05Ju7AftcM&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=57",
       "article": "",
       "lc": "https://leetcode.com/problems/n-queens/",
+      "gfg": "https://www.geeksforgeeks.org/problems/n-queen-problem0315/1",
       "tags": [
         "Recursion & Backtracking",
         "Arrays"
@@ -3456,6 +3651,7 @@
       "yt": "https://www.youtube.com/watch?v=bLGZhJlt4y0&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=60",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
       "tags": [
         "Recursion & Backtracking",
         "Arrays"
@@ -3476,6 +3672,7 @@
       "yt": "https://www.youtube.com/watch?v=wuVwUK25Rfc&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=59",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1",
       "tags": [
         "Recursion & Backtracking",
         "Arrays"
@@ -3496,6 +3693,7 @@
       "yt": "https://www.youtube.com/watch?v=FWAIf_EVUKE&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=58",
       "article": "",
       "lc": "https://leetcode.com/problems/sudoku-solver/",
+      "gfg": "https://www.geeksforgeeks.org/problems/solve-the-sudoku-1587115621/1",
       "tags": [
         "Recursion & Backtracking",
         "Arrays",
@@ -3517,6 +3715,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/expression-add-operators/",
+      "gfg": "https://www.geeksforgeeks.org/problems/expression-add-operators/1",
       "tags": [
         "Recursion & Backtracking",
         "Strings",
@@ -3539,6 +3738,7 @@
       "yt": "https://youtu.be/Nq7ok-OyEpg?si=9PR1o8OPRWil7fRA",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/singly-linked-list",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -3554,6 +3754,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/print-linked-list-elements/1",
       "tags": [
         "Linked List"
       ],
@@ -3573,6 +3774,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -3588,6 +3790,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -3603,6 +3806,7 @@
       "yt": "https://youtu.be/VaECK03Dz-g?si=CRaBHbOo2bHFbOT5",
       "article": "",
       "lc": "https://leetcode.com/problems/delete-node-in-a-linked-list/",
+      "gfg": "https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -3622,6 +3826,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -3641,6 +3846,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -3660,6 +3866,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/delete-a-node-in-single-linked-list/1",
       "tags": [
         "Arrays"
       ],
@@ -3679,6 +3886,7 @@
       "yt": "https://youtu.be/VaECK03Dz-g?si=vHSwdf9jhE05adKM&t=1934",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/insert-a-node-at-the-beginning-of-a-singly-linked-list",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/0",
       "tags": [
         "Linked List"
       ],
@@ -3698,6 +3906,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1",
       "tags": [
         "Linked List"
       ],
@@ -3717,6 +3926,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/insert-node-at-kth-position-in-linked-list",
       "lc": "",
+      "gfg": "",
       "tags": [
         "Linked List"
       ],
@@ -3736,6 +3946,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/insert-node-before-value-x-in-linked-list",
       "lc": "",
+      "gfg": "",
       "tags": [
         "Linked List"
       ],
@@ -3755,6 +3966,7 @@
       "yt": "https://youtu.be/Nq7ok-OyEpg?si=xqQbukLfo2oZ6C6s&t=2240",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/0",
       "tags": [
         "Linked List"
       ],
@@ -3774,6 +3986,7 @@
       "yt": "https://youtu.be/Nq7ok-OyEpg?si=WNXcIaXZ_B6cNq0s&t=2524",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1",
       "tags": [
         "Linked List"
       ],
@@ -3793,6 +4006,7 @@
       "yt": "https://youtu.be/0eKMU10uEDI?si=uDnoj_C5ghEpNLvP",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/doubly-linked-list",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -3808,6 +4022,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -3823,6 +4038,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -3838,6 +4054,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/create-a-doubly-linked-list-from-a-given-array/1",
       "tags": [
         "Linked List"
       ],
@@ -3857,6 +4074,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -3876,6 +4094,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -3895,6 +4114,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [
         "Linked List"
       ],
@@ -3914,6 +4134,7 @@
       "yt": "https://youtu.be/0eKMU10uEDI?si=J5a0pQTosimcO_aA&t=2684",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -3933,6 +4154,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -3952,6 +4174,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -3971,6 +4194,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [
         "Linked List"
       ],
@@ -3990,6 +4214,7 @@
       "yt": "https://youtu.be/0eKMU10uEDI?si=sE7jqrW46lfRHVLd&t=853",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -4009,6 +4234,7 @@
       "yt": "https://youtu.be/u3WUW2qe6ww?si=96Wwlju72IvmzkxE",
       "article": "",
       "lc": "https://leetcode.com/problems/reverse-linked-list/",
+      "gfg": "",
       "tags": [
         "Linked List",
         "Recursion & Backtracking"
@@ -4029,6 +4255,7 @@
       "yt": "https://www.youtube.com/watch?v=LBVsXSMOIk4&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=32",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/add-two-numbers-linked-lists-reverse-order",
       "lc": "https://leetcode.com/problems/add-two-numbers/",
+      "gfg": "https://www.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1",
       "tags": [
         "Linked List"
       ],
@@ -4048,6 +4275,7 @@
       "yt": "https://youtu.be/qf6qp7GzD5Q?si=JozAyXUdT8EJMSCQ",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/segregate-odd-and-even-nodes-in-linked-list",
       "lc": "https://leetcode.com/problems/odd-even-linked-list/",
+      "gfg": "https://www.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list5035/1",
       "tags": [
         "Linked List"
       ],
@@ -4067,6 +4295,7 @@
       "yt": "https://youtu.be/gRII7LhdJWc?si=l3qRC7w3NhY7OAqw",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sort-linked-list-0s-1s-2s-changing-links",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
       "tags": [
         "Linked List"
       ],
@@ -4086,6 +4315,7 @@
       "yt": "https://youtu.be/3kMKYQ2wNIU?si=DtFDnPU7z9HMz_GM",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/remove-the-nth-node-from-the-end-of-a-linked-list",
       "lc": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+      "gfg": "https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -4105,6 +4335,7 @@
       "yt": "https://youtu.be/D2vI2DNJGd8?si=RCaLSx01qR21IBdh",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/reverse-a-singly-linked-list",
       "lc": "https://leetcode.com/problems/reverse-linked-list/",
+      "gfg": "https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -4124,6 +4355,7 @@
       "yt": "https://youtu.be/aXQWhbvT3w0?si=uRgU9S4r5cVmnUy7",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/add-one-to-number-linked-list",
       "lc": "https://leetcode.com/problems/plus-one-linked-list/",
+      "gfg": "",
       "tags": [
         "Linked List"
       ],
@@ -4143,6 +4375,7 @@
       "yt": "https://youtu.be/7LjQ57RqgEc?si=ir_rRDio38rhamU_",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-middle-of-linked-list",
       "lc": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "gfg": "https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -4162,6 +4395,7 @@
       "yt": "https://youtu.be/ePpV-_pfOeI?si=Au9GsZkVO57j6SiN",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/delete-the-middle-node-of-a-linked-list",
       "lc": "https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/",
+      "gfg": "https://www.geeksforgeeks.org/problems/delete-middle-of-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -4181,6 +4415,7 @@
       "yt": "https://youtu.be/lRY_G-u_8jk?si=BpM8hRYvXSYyjl-G",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-if-a-linked-list-is-a-palindrome",
       "lc": "https://leetcode.com/problems/palindrome-linked-list/",
+      "gfg": "https://www.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1",
       "tags": [
         "Linked List"
       ],
@@ -4201,6 +4436,7 @@
       "yt": "https://youtu.be/0DYoPz2Tpt4?si=L-uJs5yXUxj4VJM2",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/intersection-of-two-linked-lists",
       "lc": "https://leetcode.com/problems/intersection-of-two-linked-lists/",
+      "gfg": "https://www.geeksforgeeks.org/problems/intersection-of-two-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -4220,6 +4456,7 @@
       "yt": "https://youtu.be/wiOo4DC5GGA?si=zagt6O6tFXc4_3cx",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/detect-cycle-linked-list",
       "lc": "https://leetcode.com/problems/linked-list-cycle/",
+      "gfg": "https://www.geeksforgeeks.org/problems/detect-loop-in-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -4239,6 +4476,7 @@
       "yt": "https://youtu.be/2Kd0KKmmHFc?si=7UreDPRjRvapeVB0",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-start-of-cycle-linked-list",
       "lc": "https://leetcode.com/problems/linked-list-cycle-ii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -4258,6 +4496,7 @@
       "yt": "https://youtu.be/I4g1qbkTPus?si=ONktpqewvx57T8pF",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/length-of-cycle-linked-list",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/find-length-of-loop/1",
       "tags": [
         "Linked List"
       ],
@@ -4277,6 +4516,7 @@
       "yt": "https://youtu.be/lIar1skcQYI?si=_jFghHKX4eaK36a1",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/reverse-linked-list-k-groups",
       "lc": "https://leetcode.com/problems/reverse-nodes-in-k-group/",
+      "gfg": "https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -4296,6 +4536,7 @@
       "yt": "https://youtu.be/uT7YI7XbTY8?si=ZaChW3a68c_v54Is",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/rotate-linked-list-right-k-places",
       "lc": "https://leetcode.com/problems/rotate-list/",
+      "gfg": "https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1",
       "tags": [
         "Linked List",
         "Arrays"
@@ -4316,6 +4557,7 @@
       "yt": "https://www.youtube.com/watch?v=Xb4slcp1U38&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=29",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/merge-two-sorted-linked-lists",
       "lc": "https://leetcode.com/problems/merge-two-sorted-lists/",
+      "gfg": "",
       "tags": [
         "Linked List",
         "Recursion & Backtracking"
@@ -4336,6 +4578,7 @@
       "yt": "https://youtu.be/ykelywHJWLg?si=InMg9MmTHzY22NSR",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/flatten-linked-list",
       "lc": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "gfg": "https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -4355,6 +4598,7 @@
       "yt": "https://youtu.be/8ocB7a_c-Cc?si=Gv-Y8q8-WyARoV35",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sort-a-linked-list-using-merge-sort",
       "lc": "https://leetcode.com/problems/sort-list/",
+      "gfg": "https://www.geeksforgeeks.org/problems/linked-list-that-is-sorted-alternatingly/1",
       "tags": [
         "Linked List"
       ],
@@ -4374,6 +4618,7 @@
       "yt": "https://youtu.be/q570bKdrnlw?si=epZtpWvtNwuTf23o",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/clone-linked-list-random-pointer",
       "lc": "https://leetcode.com/problems/copy-list-with-random-pointer/",
+      "gfg": "https://www.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1",
       "tags": [
         "Linked List"
       ],
@@ -4393,6 +4638,7 @@
       "yt": "https://youtu.be/Mh0NH_SD92k?si=tCYshBRi1upMqSVz",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/delete-all-occurrences-of-a-key-in-a-doubly-linked-list",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -4412,6 +4658,7 @@
       "yt": "https://youtu.be/YJKVTnOJXSY?si=AsZoNUoewetsBjr0",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/remove-duplicates-from-a-sorted-doubly-linked-list",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -4431,6 +4678,7 @@
       "yt": "https://youtu.be/YitR4dQsddE?si=iZAC259hdngV_OxC",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-pairs-with-given-sum-in-doubly-linked-list",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1",
       "tags": [
         "Linked List"
       ],
@@ -4450,6 +4698,7 @@
       "yt": "https://youtu.be/qQd-ViW7bfk?si=QtdNaRhHmZb08Mr8",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/bit-basics-and-operators",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -4465,6 +4714,7 @@
       "yt": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1",
       "tags": [
         "Bit Manipulation"
       ],
@@ -4484,6 +4734,7 @@
       "yt": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-even-or-odd",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/odd-or-even3618/1",
       "tags": [
         "Bit Manipulation"
       ],
@@ -4503,6 +4754,7 @@
       "yt": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV",
       "article": "",
       "lc": "https://leetcode.com/problems/power-of-two/",
+      "gfg": "https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1",
       "tags": [
         "Bit Manipulation"
       ],
@@ -4522,6 +4774,7 @@
       "yt": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV",
       "article": "",
       "lc": "https://leetcode.com/problems/number-of-1-bits/",
+      "gfg": "https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1",
       "tags": [
         "Bit Manipulation"
       ],
@@ -4541,6 +4794,7 @@
       "yt": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -4556,6 +4810,7 @@
       "yt": "https://youtu.be/nttpF8kwgd4?si=x9o8PsYaA2XVZ9rV",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/swap-two-numbers3844/1",
       "tags": [
         "Bit Manipulation"
       ],
@@ -4575,6 +4830,7 @@
       "yt": "https://youtu.be/OOdrmcfZXd8?si=rnkRVz1UiVBKWC69",
       "article": "",
       "lc": "https://leetcode.com/problems/minimum-bit-flips-to-convert-number/",
+      "gfg": "https://www.geeksforgeeks.org/problems/bit-difference-1587115620/1",
       "tags": [
         "Bit Manipulation"
       ],
@@ -4594,6 +4850,7 @@
       "yt": "https://youtu.be/bYWLJb3vCWY?t=1369",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/single-number-i",
       "lc": "https://leetcode.com/problems/single-number/",
+      "gfg": "https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1",
       "tags": [
         "Bit Manipulation"
       ],
@@ -4613,6 +4870,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/single-number-ii",
       "lc": "https://leetcode.com/problems/single-number-ii/",
+      "gfg": "",
       "tags": [
         "Bit Manipulation",
         "Arrays"
@@ -4633,6 +4891,7 @@
       "yt": "https://youtu.be/UA5JnV1J2sI?si=VFBRJyb3boZvx_r1",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/single-number-iii",
       "lc": "https://leetcode.com/problems/single-number-iii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/two-numbers-with-odd-occurrences5846/1",
       "tags": [
         "Bit Manipulation",
         "Arrays"
@@ -4653,6 +4912,7 @@
       "yt": "https://youtu.be/pBD4B1tzgVc?si=G9c5pEE-RrzeU6sz",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/divide-two-integers-without-multiplication-division-modulo",
       "lc": "https://leetcode.com/problems/divide-two-integers/",
+      "gfg": "https://www.geeksforgeeks.org/problems/division-without-using-multiplication-division-and-mod-operator/0",
       "tags": [
         "Bit Manipulation"
       ],
@@ -4672,6 +4932,7 @@
       "yt": "https://youtu.be/LqKaUv1G3_I?si=UXU_T5OsHiokPRvP",
       "article": "",
       "lc": "https://leetcode.com/problems/subsets/",
+      "gfg": "",
       "tags": [
         "Bit Manipulation"
       ],
@@ -4691,6 +4952,7 @@
       "yt": "https://youtu.be/WqGb7159h7Q?si=uGUEbNUUaIN_6Vvr",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/xor-of-numbers-in-a-range-l-to-r",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/find-xor-of-numbers-from-l-to-r/1",
       "tags": [
         "Bit Manipulation"
       ],
@@ -4710,6 +4972,7 @@
       "yt": "https://youtu.be/DIX2p7vb9co?si=GofAIDimue-Av0Fi",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/assign-cookies",
       "lc": "https://leetcode.com/problems/assign-cookies/",
+      "gfg": "https://www.geeksforgeeks.org/problems/assign-cookies/1",
       "tags": [
         "Greedy Algorithms",
         "Dynamic Programming",
@@ -4732,6 +4995,7 @@
       "yt": "https://youtu.be/n_tmibEhO6Q?si=q1NW8MfPy0QU6fIl",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/lemonade-change",
       "lc": "https://leetcode.com/problems/lemonade-change/",
+      "gfg": "https://www.geeksforgeeks.org/problems/lemonade-change/1",
       "tags": [
         "Greedy Algorithms",
         "Arrays"
@@ -4752,6 +5016,7 @@
       "yt": "https://youtu.be/1ibsQrnuEEg?si=8R2By3wpHo0zZVHE",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1",
       "tags": [
         "Greedy Algorithms",
         "Mathematics"
@@ -4772,6 +5037,7 @@
       "yt": "https://youtu.be/tZAa_jJ3SwQ?si=voKd7n9VTLDRRNzJ",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/jump-game",
       "lc": "https://leetcode.com/problems/jump-game/",
+      "gfg": "https://www.geeksforgeeks.org/problems/jump-game/1",
       "tags": [
         "Greedy Algorithms",
         "Dynamic Programming",
@@ -4793,6 +5059,7 @@
       "yt": "https://youtu.be/3-QbX1iDbXs?si=IH8QZUblr01F7UoQ",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/shortest-job-first/1",
       "tags": [
         "Greedy Algorithms",
         "Arrays"
@@ -4813,6 +5080,7 @@
       "yt": "https://youtu.be/QbwltemZbRg?si=wvcemJ5BLPlTRmkG",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/job-sequencing-problem",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1",
       "tags": [
         "Greedy Algorithms",
         "Arrays"
@@ -4833,6 +5101,7 @@
       "yt": "https://youtu.be/mKfhTotEguk?si=2RELeq18mpmIIN3Q",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/n-meetings-in-one-room",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1",
       "tags": [
         "Greedy Algorithms",
         "Arrays"
@@ -4853,6 +5122,7 @@
       "yt": "https://youtu.be/HDHQ8lAWakY?si=JVtLqboGdpUTOVjf",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/non-overlapping-intervals",
       "lc": "https://leetcode.com/problems/non-overlapping-intervals/",
+      "gfg": "https://www.geeksforgeeks.org/problems/non-overlapping-intervals/1",
       "tags": [
         "Greedy Algorithms",
         "Arrays"
@@ -4874,6 +5144,7 @@
       "yt": "https://youtu.be/xxRE-46OCC8?si=a7aPuIw16zDx2lAa",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/insert-interval",
       "lc": "https://leetcode.com/problems/insert-interval/",
+      "gfg": "https://www.geeksforgeeks.org/problems/insert-interval-1666733333/1",
       "tags": [
         "Greedy Algorithms",
         "Arrays"
@@ -4894,6 +5165,7 @@
       "yt": "https://www.youtube.com/watch?v=2JzRBPFYbKE&list=PLgUwDviBIf0rPG3Ictpu74YWBQ1CaBkm2&index=6",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/merge-overlapping-intervals",
       "lc": "https://leetcode.com/problems/merge-intervals/",
+      "gfg": "https://www.geeksforgeeks.org/problems/overlapping-intervals--170633/1",
       "tags": [
         "Greedy Algorithms",
         "Arrays",
@@ -4916,6 +5188,7 @@
       "yt": "https://youtu.be/AsGzwR_FWok?si=165acXU_dtqOHuo9",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-platforms-required-for-a-railway-station",
       "lc": "https://leetcode.com/problems/divide-intervals-into-minimum-number-of-groups/",
+      "gfg": "https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1",
       "tags": [
         "Greedy Algorithms",
         "Mathematics"
@@ -4936,6 +5209,7 @@
       "yt": "https://youtu.be/cHT6sG_hUZI?si=XRHeyh7jOaLaTy3g",
       "article": "",
       "lc": "https://leetcode.com/problems/valid-parenthesis-string/",
+      "gfg": "https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1",
       "tags": [
         "Greedy Algorithms",
         "Arrays"
@@ -4956,6 +5230,7 @@
       "yt": "https://youtu.be/IIqVFvKE6RY?si=EjmuXZJNLQLUkEd7",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/candy-distribution-problem",
       "lc": "https://leetcode.com/problems/candy/",
+      "gfg": "https://www.geeksforgeeks.org/problems/candy/1",
       "tags": [
         "Greedy Algorithms",
         "Arrays"
@@ -4976,6 +5251,7 @@
       "yt": "https://youtu.be/7SBVnw7GSTk?si=9uUouBELh9K3m2jZ",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/jump-game-ii-minimum-jumps",
       "lc": "https://leetcode.com/problems/jump-game-ii/",
+      "gfg": "",
       "tags": [
         "Greedy Algorithms",
         "Dynamic Programming",
@@ -4997,6 +5273,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/template-mental-model",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -5012,6 +5289,7 @@
       "yt": "https://youtu.be/pBWCOCS636U?si=-X64rY67noxvOwrG",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-points-you-can-obtain-from-cards",
       "lc": "https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/",
+      "gfg": "https://www.geeksforgeeks.org/problems/maximum-point-you-can-obtain-from-cards/1",
       "tags": [
         "Arrays"
       ],
@@ -5031,6 +5309,7 @@
       "yt": "https://youtu.be/-zSxTJkcdAo?si=I2zfR-vlDMg0zU9z",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-substring-without-repeating-characters",
       "lc": "https://leetcode.com/problems/longest-substring-without-repeating-characters/",
+      "gfg": "https://www.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1",
       "tags": [
         "Strings",
         "Hashing"
@@ -5051,6 +5330,7 @@
       "yt": "https://youtu.be/3E4JBHSLpYk?si=SoOW64pP6otEKxBw",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/max-consecutive-ones-iii",
       "lc": "https://leetcode.com/problems/max-consecutive-ones-iii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1",
       "tags": [
         "Arrays"
       ],
@@ -5070,6 +5350,7 @@
       "yt": "https://youtu.be/e3bs0uA1NhQ?si=gR8pO62u-nJeFAXk",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/fruit-into-baskets",
       "lc": "https://leetcode.com/problems/fruit-into-baskets/",
+      "gfg": "https://www.geeksforgeeks.org/problems/fruit-into-baskets-1663137462/1",
       "tags": [
         "Arrays",
         "Hashing"
@@ -5090,6 +5371,7 @@
       "yt": "https://youtu.be/teM9ZsVRQyc?si=Kh0_u6aCkkBU3Q33",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-substring-with-at-most-k-distinct-characters",
       "lc": "https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/",
+      "gfg": "https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1",
       "tags": [
         "Strings",
         "Hashing"
@@ -5110,6 +5392,7 @@
       "yt": "https://youtu.be/_eNhaDCr6P0?si=pBWcEjozF5poom0p",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-repeating-character-replacement",
       "lc": "https://leetcode.com/problems/longest-repeating-character-replacement/",
+      "gfg": "https://www.geeksforgeeks.org/problems/longest-repeating-character-replacement/1",
       "tags": [
         "Strings",
         "Hashing"
@@ -5130,6 +5413,7 @@
       "yt": "https://youtu.be/WJaij9ffOIY?si=-xnsWIH84zWU0ICd",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-window-substring",
       "lc": "https://leetcode.com/problems/minimum-window-substring/",
+      "gfg": "https://www.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1",
       "tags": [
         "Strings",
         "Hashing"
@@ -5150,6 +5434,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/minimum-window-subsequence/",
+      "gfg": "https://www.geeksforgeeks.org/problems/minimum-window-subsequence/1",
       "tags": [
         "Strings",
         "Dynamic Programming"
@@ -5170,6 +5455,7 @@
       "yt": "https://youtu.be/xtqN4qlgr8s?si=kuaLHVOLXhh5Z2tW",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-substrings-containing-all-three-characters-a-b-and-c",
       "lc": "https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/",
+      "gfg": "https://www.geeksforgeeks.org/problems/count-substring/1",
       "tags": [
         "Strings",
         "Hashing"
@@ -5190,6 +5476,7 @@
       "yt": "https://youtu.be/XnMdNUkX6VM?si=Nyt8EveeLUg8lmty",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-subarrays-with-sum",
       "lc": "https://leetcode.com/problems/binary-subarrays-with-sum/",
+      "gfg": "https://www.geeksforgeeks.org/problems/binary-subarray-with-sum/1",
       "tags": [
         "Arrays",
         "Hashing"
@@ -5210,6 +5497,7 @@
       "yt": "https://youtu.be/j_QOv9OT9Og?si=Oq5-5hyFkzVSOZpP",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-nice-subarrays",
       "lc": "https://leetcode.com/problems/count-number-of-nice-subarrays/",
+      "gfg": "https://www.geeksforgeeks.org/problems/count-subarray-with-k-odds/1",
       "tags": [
         "Arrays",
         "Hashing",
@@ -5231,6 +5519,7 @@
       "yt": "https://youtu.be/7wYGbV_LsX4?si=KWa48RgLDCvdNqRb",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/subarrays-with-k-different-integers",
       "lc": "https://leetcode.com/problems/subarrays-with-k-different-integers/",
+      "gfg": "",
       "tags": [
         "Arrays",
         "Hashing"
@@ -5251,6 +5540,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -5266,6 +5556,7 @@
       "yt": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/implement-a-stack-using-an-array",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/implement-stack-using-array/1",
       "tags": [
         "Stack & Queues",
         "Arrays"
@@ -5286,6 +5577,7 @@
       "yt": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/implement-a-queue-using-an-array",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/implement-queue-using-array/1",
       "tags": [
         "Stack & Queues",
         "Arrays"
@@ -5306,6 +5598,7 @@
       "yt": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w",
       "article": "",
       "lc": "https://leetcode.com/problems/implement-stack-using-queues/",
+      "gfg": "https://www.geeksforgeeks.org/problems/stack-using-two-queues/1",
       "tags": [
         "Stack & Queues"
       ],
@@ -5325,6 +5618,7 @@
       "yt": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/implement-a-queue-using-stacks",
       "lc": "https://leetcode.com/problems/implement-queue-using-stacks/",
+      "gfg": "https://www.geeksforgeeks.org/problems/queue-using-stack/1",
       "tags": [
         "Stack & Queues"
       ],
@@ -5344,6 +5638,7 @@
       "yt": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/implement-a-stack-using-a-linked-list",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1",
       "tags": [
         "Stack & Queues"
       ],
@@ -5363,6 +5658,7 @@
       "yt": "https://youtu.be/tqQ5fTamIN4?si=ofLt8Zt1ZvhikZ6w",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1",
       "tags": [
         "Stack & Queues"
       ],
@@ -5382,6 +5678,7 @@
       "yt": "https://youtu.be/xwjS0iZhw4I?si=UoyKpFn4Q3nf5h2R",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-balanced-parentheses-using-a-stack",
       "lc": "https://leetcode.com/problems/valid-parentheses/",
+      "gfg": "https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1",
       "tags": [
         "Stack & Queues",
         "Strings"
@@ -5402,6 +5699,7 @@
       "yt": "https://youtu.be/4pIc9UBHJtk?si=ryeVvQWpCgwbTQrh",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1",
       "tags": [
         "Stack & Queues"
       ],
@@ -5421,6 +5719,7 @@
       "yt": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/infix-to-prefix-notation/1",
       "tags": [
         "Stack & Queues"
       ],
@@ -5440,6 +5739,7 @@
       "yt": "https://youtu.be/4pIc9UBHJtk?si=ryeVvQWpCgwbTQrh",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/1",
       "tags": [
         "Stack & Queues"
       ],
@@ -5459,6 +5759,7 @@
       "yt": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/1",
       "tags": [
         "Stack & Queues"
       ],
@@ -5478,6 +5779,7 @@
       "yt": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/1",
       "tags": [
         "Stack & Queues"
       ],
@@ -5497,6 +5799,7 @@
       "yt": "https://youtu.be/4pIc9UBHJtk?si=0pWtyDC1GhbiYP3P",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1",
       "tags": [
         "Stack & Queues"
       ],
@@ -5516,6 +5819,7 @@
       "yt": "https://youtu.be/e7XQLtOQM3I?si=QdcHpTtx6gAHsext",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/next-greater-element",
       "lc": "https://leetcode.com/problems/next-greater-element-i/",
+      "gfg": "https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1",
       "tags": [
         "Stack & Queues",
         "Arrays"
@@ -5536,6 +5840,7 @@
       "yt": "https://youtu.be/7PrncD7v9YQ?si=UkBc7eVy9HGlBpeW",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/next-greater-element-ii-circular-array",
       "lc": "https://leetcode.com/problems/next-greater-element-ii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1",
       "tags": [
         "Stack & Queues",
         "Arrays"
@@ -5556,6 +5861,7 @@
       "yt": "https://youtu.be/_eYGqw_VDR4?si=YyxibcHq800RqgIQ",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/asteroid-collision",
       "lc": "https://leetcode.com/problems/asteroid-collision/",
+      "gfg": "https://www.geeksforgeeks.org/problems/asteroid-collision/1",
       "tags": [
         "Stack & Queues",
         "Arrays"
@@ -5576,6 +5882,7 @@
       "yt": "https://youtu.be/v0e8p9JCgRc?si=XAU7ekECgS5nboRw",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sum-of-subarray-minimums",
       "lc": "https://leetcode.com/problems/sum-of-subarray-minimums/",
+      "gfg": "https://www.geeksforgeeks.org/problems/sum-of-subarray-minimum/1",
       "tags": [
         "Stack & Queues",
         "Dynamic Programming",
@@ -5597,6 +5904,7 @@
       "yt": "https://youtu.be/gIrMptNPf5M?si=Q_GHuBvzZVs27X_U",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/sum-of-subarray-ranges",
       "lc": "https://leetcode.com/problems/sum-of-subarray-ranges/",
+      "gfg": "https://www.geeksforgeeks.org/problems/sum-of-subarray-ranges/1",
       "tags": [
         "Stack & Queues",
         "Arrays"
@@ -5617,6 +5925,7 @@
       "yt": "https://youtu.be/jmbuRzYPGrg?si=WN387gwQ7aXWkUao",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/remove-k-digits",
       "lc": "https://leetcode.com/problems/remove-k-digits/",
+      "gfg": "https://www.geeksforgeeks.org/problems/remove-k-digits/1",
       "tags": [
         "Stack & Queues",
         "Strings"
@@ -5637,6 +5946,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1",
       "tags": [
         "Stack & Queues",
         "Arrays"
@@ -5657,6 +5967,7 @@
       "yt": "https://youtu.be/NdDIaH91P0g?si=4_Jbsq5trFvfSdUY",
       "article": "",
       "lc": "https://leetcode.com/problems/min-stack/",
+      "gfg": "https://www.geeksforgeeks.org/problems/get-minimum-element-from-stack/1",
       "tags": [
         "Stack & Queues"
       ],
@@ -5676,6 +5987,7 @@
       "yt": "https://youtu.be/NwBvene4Imo?si=eU1PY-bcQfk5wdog",
       "article": "",
       "lc": "https://leetcode.com/problems/sliding-window-maximum/",
+      "gfg": "https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1",
       "tags": [
         "Stack & Queues",
         "Arrays",
@@ -5697,6 +6009,7 @@
       "yt": "https://youtu.be/1_5VuquLbXg?si=NFG6df318_6OtGvg",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/trapping-rain-water",
       "lc": "https://leetcode.com/problems/trapping-rain-water/",
+      "gfg": "https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1",
       "tags": [
         "Stack & Queues",
         "Arrays"
@@ -5717,6 +6030,7 @@
       "yt": "https://youtu.be/Bzat9vgD0fs?si=DiBlLejXcr6EJoyB",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/largest-rectangle-in-histogram",
       "lc": "https://leetcode.com/problems/largest-rectangle-in-histogram/",
+      "gfg": "https://www.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram-1587115620/1",
       "tags": [
         "Stack & Queues",
         "Arrays"
@@ -5737,6 +6051,7 @@
       "yt": "https://youtu.be/tOylVCugy9k",
       "article": "",
       "lc": "https://leetcode.com/problems/maximal-rectangle/",
+      "gfg": "https://www.geeksforgeeks.org/problems/max-rectangle/1",
       "tags": [
         "Stack & Queues",
         "Arrays"
@@ -5757,6 +6072,7 @@
       "yt": "https://youtu.be/eay-zoSRkVc?si=deNNe5i38BOAntha",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/stock-span-problem",
       "lc": "https://leetcode.com/problems/online-stock-span/",
+      "gfg": "https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1",
       "tags": [
         "Stack & Queues",
         "Arrays"
@@ -5777,6 +6093,7 @@
       "yt": "https://youtu.be/cEadsbTeze4?si=olXYfOs7l-SEn2zl",
       "article": "",
       "lc": "https://leetcode.com/problems/find-the-celebrity/",
+      "gfg": "https://www.geeksforgeeks.org/problems/the-celebrity-problem/1",
       "tags": [
         "Stack & Queues",
         "Arrays"
@@ -5797,6 +6114,7 @@
       "yt": "https://www.youtube.com/watch?v=z9bJUPxzFOw",
       "article": "",
       "lc": "https://leetcode.com/problems/lru-cache/",
+      "gfg": "https://www.geeksforgeeks.org/problems/lru-cache/1",
       "tags": [
         "Linked List",
         "Hashing"
@@ -5817,6 +6135,7 @@
       "yt": "https://www.youtube.com/watch?v=0PSB9y8ehbk&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=79",
       "article": "",
       "lc": "https://leetcode.com/problems/lfu-cache/",
+      "gfg": "https://www.geeksforgeeks.org/problems/lfu-cache-1665050355/1",
       "tags": [
         "Linked List",
         "Hashing"
@@ -5837,6 +6156,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/number-of-nges-to-the-right/1",
       "tags": [
         "Stack & Queues",
         "Arrays"
@@ -5857,6 +6177,7 @@
       "yt": "https://youtu.be/_ANrF3FJm7I",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-tree-data-structure",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -5872,6 +6193,7 @@
       "yt": "https://youtu.be/lxTGsVXjwvM",
       "article": "",
       "lc": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "gfg": "https://www.geeksforgeeks.org/problems/inorder-traversal/1",
       "tags": [
         "Binary Trees",
         "Recursion & Backtracking"
@@ -5892,6 +6214,7 @@
       "yt": "https://youtu.be/RlUu72JrOCQ",
       "article": "",
       "lc": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+      "gfg": "https://www.geeksforgeeks.org/problems/preorder-traversal/1",
       "tags": [
         "Binary Trees"
       ],
@@ -5911,6 +6234,7 @@
       "yt": "https://youtu.be/2YBhNLodD8Q",
       "article": "",
       "lc": "https://leetcode.com/problems/binary-tree-postorder-traversal/",
+      "gfg": "https://www.geeksforgeeks.org/problems/postorder-traversal/1",
       "tags": [
         "Binary Trees"
       ],
@@ -5930,6 +6254,7 @@
       "yt": "https://youtu.be/EoAsWbO7sqg",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-tree-level-order-traversal",
       "lc": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "gfg": "https://www.geeksforgeeks.org/problems/level-order-traversal-in-spiral-form/1",
       "tags": [
         "Binary Trees"
       ],
@@ -5949,6 +6274,7 @@
       "yt": "https://youtu.be/ySp2epYvgTE",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/postorder-traversal-iterative/1",
       "tags": [
         "Binary Trees"
       ],
@@ -5968,6 +6294,7 @@
       "yt": "https://youtu.be/eD3tmO66aBA",
       "article": "",
       "lc": "https://leetcode.com/problems/maximum-depth-of-binary-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/height-of-binary-tree/1",
       "tags": [
         "Binary Trees",
         "Recursion & Backtracking"
@@ -5988,6 +6315,7 @@
       "yt": "https://youtu.be/BhuvF_-PWS0",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-identical-binary-trees",
       "lc": "https://leetcode.com/problems/same-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6007,6 +6335,7 @@
       "yt": "https://youtu.be/Yt50Jfbd8Po",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/check-if-a-binary-tree-is-height-balanced",
       "lc": "https://leetcode.com/problems/balanced-binary-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/check-for-balanced-tree/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6026,6 +6355,7 @@
       "yt": "https://youtu.be/Rezetez59Nk",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/diameter-of-a-binary-tree",
       "lc": "https://leetcode.com/problems/diameter-of-binary-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/diameter-of-binary-tree/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6045,6 +6375,7 @@
       "yt": "https://youtu.be/WszrfSwMz58",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-tree-maximum-path-sum",
       "lc": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
+      "gfg": "https://www.geeksforgeeks.org/problems/maximum-path-sum-from-any-node/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6064,6 +6395,7 @@
       "yt": "https://www.youtube.com/watch?v=nKggNAiEpBE",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/symmetric-binary-tree",
       "lc": "https://leetcode.com/problems/symmetric-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/symmetric-tree/1",
       "tags": [
         "Binary Trees",
         "Recursion & Backtracking"
@@ -6084,6 +6416,7 @@
       "yt": "https://youtu.be/fnmisPM6cVo",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/children-sum-parent/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6103,6 +6436,7 @@
       "yt": "https://youtu.be/3OXWEdlIGl4",
       "article": "",
       "lc": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/",
+      "gfg": "https://www.geeksforgeeks.org/problems/zigzag-tree-traversal/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6122,6 +6456,7 @@
       "yt": "https://youtu.be/0ca1nvR0be4",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/boundary-traversal-of-a-binary-tree",
       "lc": "https://leetcode.com/problems/boundary-of-binary-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/0",
       "tags": [
         "Binary Trees"
       ],
@@ -6141,6 +6476,7 @@
       "yt": "https://youtu.be/q_a6lpbKJdw",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/vertical-order-traversal-of-a-binary-tree",
       "lc": "https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/0",
       "tags": [
         "Binary Trees"
       ],
@@ -6160,6 +6496,7 @@
       "yt": "https://youtu.be/Et9OCDNvJ78",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/top-view-of-binary-tree",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6179,6 +6516,7 @@
       "yt": "https://youtu.be/0FtVY6I4pB8",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/bottom-view-of-binary-tree",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6198,6 +6536,7 @@
       "yt": "https://youtu.be/KV4mRzTjlAk",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/left-and-right-views-of-a-binary-tree",
       "lc": "https://leetcode.com/problems/binary-tree-right-side-view/",
+      "gfg": "https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6217,6 +6556,7 @@
       "yt": "https://youtu.be/fmflMqVOC7k",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/print-root-to-leaf-path-in-binary-tree",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6236,6 +6576,7 @@
       "yt": "https://youtu.be/_-QHfMDde90",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/lowest-common-ancestor-in-a-binary-tree",
       "lc": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6255,6 +6596,7 @@
       "yt": "https://youtu.be/ZbybYvcVLks",
       "article": "",
       "lc": "https://leetcode.com/problems/maximum-width-of-binary-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/maximum-width-of-tree/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6274,6 +6616,7 @@
       "yt": "https://youtu.be/i9ORlEy6EsI",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/nodes-distance-k-binary-tree",
       "lc": "https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/nodes-at-given-distance-in-binary-tree/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6293,6 +6636,7 @@
       "yt": "https://youtu.be/2r5wLmQfD6g",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-time-burn-binary-tree",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/burning-tree/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6312,6 +6656,7 @@
       "yt": "https://youtu.be/u-yWemKGWO0",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-nodes-in-a-complete-binary-tree",
       "lc": "https://leetcode.com/problems/count-complete-tree-nodes/",
+      "gfg": "https://www.geeksforgeeks.org/problems/count-number-of-nodes-in-a-binary-tree/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6331,6 +6676,7 @@
       "yt": "https://youtu.be/sWf7k1x9XR4",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/flatten-binary-tree-to-linked-list",
       "lc": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list/",
+      "gfg": "https://www.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list/1",
       "tags": [
         "Binary Trees",
         "Linked List",
@@ -6352,6 +6698,7 @@
       "yt": "https://youtu.be/9GMECGQgWrQ",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/requirements-needed-to-construct-a-unique-binary-tree",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/unique-binary-tree-requirements/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6371,6 +6718,7 @@
       "yt": "https://youtu.be/aZNaLrVebKQ",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/construct-a-binary-tree-from-preorder-and-inorder",
       "lc": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
+      "gfg": "https://www.geeksforgeeks.org/problems/construct-tree-1/1",
       "tags": [
         "Binary Trees",
         "Hashing"
@@ -6391,6 +6739,7 @@
       "yt": "https://youtu.be/LgLRTaEMRVc",
       "article": "",
       "lc": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/",
+      "gfg": "https://www.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1",
       "tags": [
         "Binary Trees",
         "Hashing"
@@ -6411,6 +6760,7 @@
       "yt": "https://youtu.be/-YbXySKJsX8",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/serialize-and-deserialize-a-binary-tree",
       "lc": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6430,6 +6780,7 @@
       "yt": "https://youtu.be/80Zug6D1_r4",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/morris-inorder-traversal",
       "lc": "https://leetcode.com/problems/binary-tree-inorder-traversal/",
+      "gfg": "https://www.geeksforgeeks.org/problems/inorder-traversal/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6449,6 +6800,7 @@
       "yt": "https://youtu.be/80Zug6D1_r4",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/morris-preorder-traversal",
       "lc": "https://leetcode.com/problems/binary-tree-preorder-traversal/",
+      "gfg": "https://www.geeksforgeeks.org/problems/preorder-traversal/1",
       "tags": [
         "Binary Trees"
       ],
@@ -6468,6 +6820,7 @@
       "yt": "https://youtu.be/p7-9UvDQZ3w",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-search-tree",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -6483,6 +6836,7 @@
       "yt": "https://youtu.be/KcNt6v_56cc",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/search-in-a-binary-search-tree",
       "lc": "https://leetcode.com/problems/search-in-a-binary-search-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1",
       "tags": [
         "Binary Search Trees"
       ],
@@ -6502,6 +6856,7 @@
       "yt": "https://www.youtube.com/watch?v=xm_W1ub-K-w&list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk&index=43",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/floor-and-ceil-in-a-bst",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/floor-in-bst/1",
       "tags": [
         "Binary Search Trees"
       ],
@@ -6521,6 +6876,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -6536,6 +6892,7 @@
       "yt": "https://youtu.be/FiFiNvM29ps",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/insert-into-a-binary-search-tree",
       "lc": "https://leetcode.com/problems/insert-into-a-binary-search-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1",
       "tags": [
         "Binary Search Trees"
       ],
@@ -6555,6 +6912,7 @@
       "yt": "https://youtu.be/kouxiP_H5WE",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/delete-node-in-a-bst",
       "lc": "https://leetcode.com/problems/delete-node-in-a-bst/",
+      "gfg": "https://www.geeksforgeeks.org/problems/delete-a-node-from-bst/1",
       "tags": [
         "Binary Search Trees"
       ],
@@ -6574,6 +6932,7 @@
       "yt": "https://youtu.be/9TJYWh0adfk",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/kth-smallest-and-largest-elements-in-a-bst",
       "lc": "https://leetcode.com/problems/kth-smallest-element-in-a-bst/",
+      "gfg": "https://www.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1",
       "tags": [
         "Binary Search Trees"
       ],
@@ -6593,6 +6952,7 @@
       "yt": "https://youtu.be/f-sj7I5oXEI",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/validate-binary-search-tree",
       "lc": "https://leetcode.com/problems/validate-binary-search-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/check-for-bst/1",
       "tags": [
         "Binary Search Trees",
         "Binary Trees"
@@ -6613,6 +6973,7 @@
       "yt": "https://youtu.be/cX_kPV_foZc",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/lowest-common-ancestor-of-a-binary-search-tree",
       "lc": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1",
       "tags": [
         "Binary Search Trees"
       ],
@@ -6632,6 +6993,7 @@
       "yt": "https://youtu.be/UmJT3j26t1I",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/construct-a-bst-from-preorder-traversal",
       "lc": "https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/",
+      "gfg": "https://www.geeksforgeeks.org/problems/preorder-to-postorder4423/1",
       "tags": [
         "Binary Search Trees"
       ],
@@ -6651,6 +7013,7 @@
       "yt": "https://youtu.be/SXKAD2svfmI",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/inorder-successor-and-predecessor-in-a-bst",
       "lc": "https://leetcode.com/problems/inorder-successor-in-bst/",
+      "gfg": "https://www.geeksforgeeks.org/problems/predecessor-and-successor/1",
       "tags": [
         "Binary Search Trees"
       ],
@@ -6670,6 +7033,7 @@
       "yt": "https://youtu.be/D2jMcmxU4bs",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/binary-search-tree-iterator",
       "lc": "https://leetcode.com/problems/binary-search-tree-iterator/",
+      "gfg": "https://www.geeksforgeeks.org/problems/merge-two-bst-s/1",
       "tags": [
         "Binary Search Trees"
       ],
@@ -6690,6 +7054,7 @@
       "yt": "https://youtu.be/ssL3sHwPeb4",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/two-sum-in-bst",
       "lc": "https://leetcode.com/problems/two-sum-iv-input-is-a-bst/",
+      "gfg": "https://www.geeksforgeeks.org/problems/find-a-pair-with-given-target-in-bst/1",
       "tags": [
         "Binary Search Trees"
       ],
@@ -6709,6 +7074,7 @@
       "yt": "https://youtu.be/ZWGW7FminDM",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/recover-binary-search-tree",
       "lc": "https://leetcode.com/problems/recover-binary-search-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/fixed-two-nodes-of-a-bst/1",
       "tags": [
         "Binary Search Trees"
       ],
@@ -6728,6 +7094,7 @@
       "yt": "https://youtu.be/X0oXMdtUDwo",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/largest-bst-in-binary-tree",
       "lc": "https://leetcode.com/problems/largest-bst-subtree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/largest-bst/1",
       "tags": [
         "Binary Search Trees"
       ],
@@ -6747,6 +7114,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/introduction-to-heap",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -6762,6 +7130,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [
         "Heaps"
       ],
@@ -6781,6 +7150,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [
         "Heaps",
         "Arrays"
@@ -6801,6 +7171,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/operations-on-binary-min-heap/1",
       "tags": [
         "Heaps"
       ],
@@ -6820,6 +7191,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/max-heap-implementation/1",
       "tags": [
         "Heaps"
       ],
@@ -6839,6 +7211,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/does-array-represent-heap4345/1",
       "tags": [
         "Heaps"
       ],
@@ -6858,6 +7231,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/convert-min-heap-to-max-heap-1666385109/1",
       "tags": [
         "Heaps"
       ],
@@ -6877,6 +7251,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/heap-sort",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/heap-sort/1",
       "tags": [
         "Sorting",
         "Arrays",
@@ -6898,6 +7273,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/k-th-largest-element-in-an-array",
       "lc": "https://leetcode.com/problems/kth-largest-element-in-an-array/",
+      "gfg": "https://www.geeksforgeeks.org/problems/k-largest-elements4206/1",
       "tags": [
         "Heaps",
         "Arrays"
@@ -6919,6 +7295,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/kth-largest-element-stream",
       "lc": "https://leetcode.com/problems/kth-largest-element-in-a-stream/",
+      "gfg": "https://www.geeksforgeeks.org/problems/kth-largest-element-in-a-stream2220/1",
       "tags": [
         "Heaps",
         "Binary Search Trees"
@@ -6940,6 +7317,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -6955,6 +7333,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/merge-k-sorted-linked-lists",
       "lc": "https://leetcode.com/problems/merge-k-sorted-lists/",
+      "gfg": "",
       "tags": [
         "Heaps",
         "Linked List"
@@ -6976,6 +7355,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/rank-transform-of-an-array/",
+      "gfg": "",
       "tags": [
         "Sorting",
         "Heaps"
@@ -6996,6 +7376,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/task-scheduler",
       "lc": "https://leetcode.com/problems/task-scheduler/",
+      "gfg": "https://www.geeksforgeeks.org/problems/task-scheduler/1",
       "tags": [
         "Heaps",
         "Greedy Algorithms",
@@ -7020,6 +7401,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/hand-of-straights/",
+      "gfg": "",
       "tags": [
         "Greedy Algorithms",
         "Arrays",
@@ -7042,6 +7424,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/design-twitter/",
+      "gfg": "https://www.geeksforgeeks.org/problems/design-twitter/1",
       "tags": [
         "Heaps",
         "Hashing",
@@ -7063,6 +7446,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/minimum-cost-to-connect-sticks/",
+      "gfg": "",
       "tags": [
         "Heaps",
         "Arrays"
@@ -7084,6 +7468,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/maximum-sum-combination/1",
       "tags": [
         "Heaps",
         "Mathematics"
@@ -7105,6 +7490,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-median-data-stream",
       "lc": "https://leetcode.com/problems/find-median-from-data-stream/",
+      "gfg": "https://www.geeksforgeeks.org/problems/find-median-in-a-stream-1587115620/1",
       "tags": [
         "Heaps"
       ],
@@ -7125,6 +7511,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/top-k-frequent-elements",
       "lc": "https://leetcode.com/problems/top-k-frequent-elements/",
+      "gfg": "",
       "tags": [
         "Heaps",
         "Hashing",
@@ -7148,6 +7535,7 @@
       "yt": "https://youtu.be/3oI-34aPMWM",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/introduction-to-graph",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -7163,6 +7551,7 @@
       "yt": "https://youtu.be/Qzf1a--rhp8",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
       "tags": [
         "Graphs"
       ],
@@ -7182,6 +7571,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/",
+      "gfg": "https://www.geeksforgeeks.org/problems/number-of-provinces/1",
       "tags": [
         "Graphs"
       ],
@@ -7201,6 +7591,7 @@
       "yt": "https://youtu.be/ACzkVtewUYA",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/number-of-provinces",
       "lc": "https://leetcode.com/problems/number-of-provinces/",
+      "gfg": "https://www.geeksforgeeks.org/problems/number-of-provinces/1",
       "tags": [
         "Graphs"
       ],
@@ -7220,6 +7611,7 @@
       "yt": "https://www.youtube.com/watch?v=muncqlKJrH0&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=8",
       "article": "",
       "lc": "https://leetcode.com/problems/number-of-islands/",
+      "gfg": "",
       "tags": [
         "Graphs",
         "Arrays"
@@ -7240,6 +7632,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/flood-fill-algorithm",
       "lc": "https://leetcode.com/problems/flood-fill/",
+      "gfg": "https://www.geeksforgeeks.org/problems/flood-fill-algorithm1856/1",
       "tags": [
         "Graphs"
       ],
@@ -7259,6 +7652,7 @@
       "yt": "https://youtu.be/rxKcepXQgU4",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/number-of-enclaves",
       "lc": "https://leetcode.com/problems/number-of-enclaves/",
+      "gfg": "https://www.geeksforgeeks.org/problems/number-of-enclaves/1",
       "tags": [
         "Graphs",
         "Arrays"
@@ -7279,6 +7673,7 @@
       "yt": "https://www.youtube.com/watch?v=yf3oUhkvqA0",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/rotting-oranges",
       "lc": "https://leetcode.com/problems/rotting-oranges/",
+      "gfg": "https://www.geeksforgeeks.org/problems/rotten-oranges2536/1",
       "tags": [
         "Graphs",
         "Arrays"
@@ -7299,6 +7694,7 @@
       "yt": "https://youtu.be/edXdVwkYHF8",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/distance-of-the-nearest-cell-having-1-in-a-binary-matrix",
       "lc": "https://leetcode.com/problems/01-matrix/",
+      "gfg": "https://www.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1",
       "tags": [
         "Graphs"
       ],
@@ -7318,6 +7714,7 @@
       "yt": "https://youtu.be/BtdgAys4yMk",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/surrounded-regions",
       "lc": "https://leetcode.com/problems/surrounded-regions/",
+      "gfg": "https://www.geeksforgeeks.org/problems/replace-os-with-xs0052/1",
       "tags": [
         "Graphs",
         "Arrays"
@@ -7338,6 +7735,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/number-of-distinct-islands",
       "lc": "https://leetcode.com/problems/number-of-distinct-islands/",
+      "gfg": "https://www.geeksforgeeks.org/problems/number-of-distinct-islands/1",
       "tags": [
         "Graphs",
         "Arrays",
@@ -7359,6 +7757,7 @@
       "yt": "https://youtu.be/zQ3zgFypzX4",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/detect-a-cycle-in-an-undirected-graph",
       "lc": "https://leetcode.com/problems/course-schedule/",
+      "gfg": "https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
       "tags": [
         "Graphs"
       ],
@@ -7378,6 +7777,7 @@
       "yt": "https://youtu.be/KG5YFfR0j8A",
       "article": "",
       "lc": "https://leetcode.com/problems/is-graph-bipartite/",
+      "gfg": "https://www.geeksforgeeks.org/problems/bipartite-graph/1",
       "tags": [
         "Graphs"
       ],
@@ -7397,6 +7797,7 @@
       "yt": "https://youtu.be/5lZ0iJMrUMk",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/topological-sort/1",
       "tags": [
         "Graphs"
       ],
@@ -7416,6 +7817,7 @@
       "yt": "https://www.youtube.com/watch?v=uzVUw90ZFIg&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=12",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/detect-a-cycle-in-a-directed-graph",
       "lc": "https://leetcode.com/problems/course-schedule/",
+      "gfg": "https://www.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
       "tags": [
         "Graphs"
       ],
@@ -7435,6 +7837,7 @@
       "yt": "https://youtu.be/2gtg3VsDGyc",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-eventual-safe-states",
       "lc": "https://leetcode.com/problems/find-eventual-safe-states/",
+      "gfg": "https://www.geeksforgeeks.org/problems/eventual-safe-states/1",
       "tags": [
         "Graphs"
       ],
@@ -7454,6 +7857,7 @@
       "yt": "https://youtu.be/WAOfKpxYHR8",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/course-schedule-i",
       "lc": "https://leetcode.com/problems/course-schedule/",
+      "gfg": "https://www.geeksforgeeks.org/problems/course-schedule/1",
       "tags": [
         "Graphs"
       ],
@@ -7473,6 +7877,7 @@
       "yt": "https://youtu.be/WAOfKpxYHR8",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/course-schedule-ii",
       "lc": "https://leetcode.com/problems/course-schedule-ii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/course-schedule/1",
       "tags": [
         "Graphs"
       ],
@@ -7492,6 +7897,7 @@
       "yt": "https://youtu.be/U3N_je7tWAs",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/alien-dictionary",
       "lc": "https://leetcode.com/problems/alien-dictionary/",
+      "gfg": "https://www.geeksforgeeks.org/problems/alien-dictionary/1",
       "tags": [
         "Graphs",
         "Arrays",
@@ -7513,6 +7919,7 @@
       "yt": "https://www.youtube.com/watch?v=ZUFQfFaU-8U&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=27",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/shortest-path-in-a-directed-acyclic-graph-dag",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1",
       "tags": [
         "Graphs"
       ],
@@ -7532,6 +7939,7 @@
       "yt": "https://www.youtube.com/watch?v=C4gxoTaI71U&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=28",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/shortest-path-in-an-unweighted-undirected-graph-using-bfs",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1",
       "tags": [
         "Graphs"
       ],
@@ -7551,6 +7959,7 @@
       "yt": "https://youtu.be/tRPda0rcf8E",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/word-ladder",
       "lc": "https://leetcode.com/problems/word-ladder/",
+      "gfg": "https://www.geeksforgeeks.org/problems/word-ladder/1",
       "tags": [
         "Graphs",
         "Strings",
@@ -7572,6 +7981,7 @@
       "yt": "https://youtu.be/AD4SFl7tu7I?si=EpcJQTWm2YeURvEG",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/word-ladder-ii",
       "lc": "https://leetcode.com/problems/word-ladder-ii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/word-ladder-ii/1",
       "tags": [
         "Graphs",
         "Recursion & Backtracking",
@@ -7594,6 +8004,7 @@
       "yt": "https://www.youtube.com/watch?v=rp1SMw7HSO8&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=35",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/dijkstras-algorithm",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/implementing-dijkstra-set-1-adjacency-matrix/1",
       "tags": [
         "Graphs",
         "Heaps"
@@ -7615,6 +8026,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/print-shortest-path",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/shortest-path-in-weighted-undirected-graph/1",
       "tags": [
         "Graphs",
         "Heaps"
@@ -7635,6 +8047,7 @@
       "yt": "https://www.youtube.com/watch?v=U5Mw4eyUmw4&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=36",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/shortest-distance-binary-maze",
       "lc": "https://leetcode.com/problems/shortest-path-in-binary-matrix/",
+      "gfg": "https://www.geeksforgeeks.org/problems/shortest-path-in-a-binary-maze-1655453161/1",
       "tags": [
         "Graphs",
         "Arrays"
@@ -7655,6 +8068,7 @@
       "yt": "https://youtu.be/0ytpZyiZFhA",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/path-with-minimum-effort",
       "lc": "https://leetcode.com/problems/path-with-minimum-effort/",
+      "gfg": "https://www.geeksforgeeks.org/problems/path-with-minimum-effort/1",
       "tags": [
         "Graphs",
         "Arrays",
@@ -7676,6 +8090,7 @@
       "yt": "https://youtu.be/9XybHVqTHcQ",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/cheapest-flights-within-k-stops",
       "lc": "https://leetcode.com/problems/cheapest-flights-within-k-stops/",
+      "gfg": "https://www.geeksforgeeks.org/problems/cheapest-flights-within-k-stops/1",
       "tags": [
         "Graphs",
         "Dynamic Programming",
@@ -7697,6 +8112,7 @@
       "yt": "https://www.youtube.com/watch?v=_BvEJ3VIDWw&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=39",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-multiplications-to-reach-end",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1",
       "tags": [
         "Graphs"
       ],
@@ -7716,6 +8132,7 @@
       "yt": "https://youtu.be/_-0mx0SmYxA",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/number-of-ways-to-arrive-at-destination",
       "lc": "https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/",
+      "gfg": "https://www.geeksforgeeks.org/problems/number-of-ways-to-arrive-at-destination/1",
       "tags": [
         "Graphs",
         "Dynamic Programming"
@@ -7736,6 +8153,7 @@
       "yt": "https://youtu.be/0vVofAhAYjc",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/bellman-ford-algorithm",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1",
       "tags": [
         "Graphs"
       ],
@@ -7755,6 +8173,7 @@
       "yt": "https://www.youtube.com/watch?v=YbY8cVwWAvw&list=PLgUwDviBIf0oE3gA41TKO2H5bHpPd7fzn&index=42",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1",
       "tags": [
         "Graphs"
       ],
@@ -7774,6 +8193,7 @@
       "yt": "https://youtu.be/9XybHVqTHcQ",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-city-smallest-number-neighbors-threshold-distance",
       "lc": "https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/",
+      "gfg": "https://www.geeksforgeeks.org/problems/city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/0/",
       "tags": [
         "Graphs",
         "Dynamic Programming"
@@ -7794,6 +8214,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/network-delay-time",
       "lc": "https://leetcode.com/problems/network-delay-time/",
+      "gfg": "https://www.geeksforgeeks.org/problems/alex-travelling/1",
       "tags": [
         "Graphs",
         "Heaps"
@@ -7815,6 +8236,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/swim-in-rising-water/",
+      "gfg": "https://www.geeksforgeeks.org/problems/minimum-travel-time/1",
       "tags": [
         "Graphs",
         "Arrays",
@@ -7836,6 +8258,7 @@
       "yt": "https://youtu.be/ZSPjZuZWCME",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -7851,6 +8274,7 @@
       "yt": "https://youtu.be/aBxjDBC4M1U",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/disjoint-set-union",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/disjoint-set-union-find/1",
       "tags": [
         "Graphs"
       ],
@@ -7871,6 +8295,7 @@
       "yt": "https://youtu.be/mJcZjjKzeqk",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/find-the-mst-weight",
       "lc": "https://leetcode.com/problems/connecting-cities-with-minimum-cost/",
+      "gfg": "https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1",
       "tags": [
         "Graphs"
       ],
@@ -7891,6 +8316,7 @@
       "yt": "https://youtu.be/FYrl7iz9_ZU",
       "article": "",
       "lc": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+      "gfg": "https://www.geeksforgeeks.org/problems/connecting-the-graph/1",
       "tags": [
         "Graphs"
       ],
@@ -7910,6 +8336,7 @@
       "yt": "https://youtu.be/FMwpt_aQOGw",
       "article": "",
       "lc": "https://leetcode.com/problems/accounts-merge/",
+      "gfg": "https://www.geeksforgeeks.org/problems/merging-details/1",
       "tags": [
         "Graphs",
         "Strings",
@@ -7931,6 +8358,7 @@
       "yt": "https://youtu.be/Rn6B-Q4SNyA",
       "article": "",
       "lc": "https://leetcode.com/problems/number-of-islands-ii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/find-the-number-of-islands/1",
       "tags": [
         "Graphs",
         "Arrays",
@@ -7952,6 +8380,7 @@
       "yt": "https://youtu.be/lgiz0Oup6gM",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/making-a-large-island",
       "lc": "https://leetcode.com/problems/making-a-large-island/",
+      "gfg": "https://www.geeksforgeeks.org/problems/maximum-connected-group/1",
       "tags": [
         "Graphs",
         "Arrays"
@@ -7972,6 +8401,7 @@
       "yt": "https://youtu.be/OwMNX8SPavM",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/most-stones-removed-same-row-column",
       "lc": "https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/",
+      "gfg": "https://www.geeksforgeeks.org/problems/maximum-stone-removal-1662179442/1",
       "tags": [
         "Graphs",
         "Hashing"
@@ -7992,6 +8422,7 @@
       "yt": "https://www.youtube.com/watch?v=V8qIqJxCioo&list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw&index=27",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/kosarajus-algorithm",
       "lc": "https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/discuss/766485/kosaraju-algorithm-on",
+      "gfg": "https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1",
       "tags": [
         "Graphs"
       ],
@@ -8011,6 +8442,7 @@
       "yt": "https://youtu.be/qrAub5z8FeA",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/bridges-in-graph-tarjan-algorithm",
       "lc": "https://leetcode.com/problems/critical-connections-in-a-network/",
+      "gfg": "https://www.geeksforgeeks.org/problems/bridge-edge-in-graph/1",
       "tags": [
         "Graphs"
       ],
@@ -8030,6 +8462,7 @@
       "yt": "https://youtu.be/j1QDfU21iZk",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/articulation-points-in-graph",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/articulation-point-1/1",
       "tags": [
         "Graphs"
       ],
@@ -8049,6 +8482,7 @@
       "yt": "https://youtu.be/tyB0ztf0DNY",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/dynamic-programming-memoization-tabulation",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -8064,6 +8498,7 @@
       "yt": "https://youtu.be/mLfjzJsN8us",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/climbing-stairs",
       "lc": "https://leetcode.com/problems/climbing-stairs/",
+      "gfg": "https://www.geeksforgeeks.org/problems/count-ways-to-reach-the-nth-stair-1587115620/1",
       "tags": [
         "Dynamic Programming",
         "Mathematics"
@@ -8084,6 +8519,7 @@
       "yt": "https://www.youtube.com/watch?v=EgG3jsGoPvQ",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/frog-jump-minimum-energy",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/geek-jump/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8104,6 +8540,7 @@
       "yt": "https://www.youtube.com/watch?v=Kmh3rhyEtB8",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/frog-jump-with-k-distances",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/minimal-cost/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8124,6 +8561,7 @@
       "yt": "https://www.youtube.com/watch?v=GrMBfJNk_NY",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-sum-of-non-adjacent-elements",
       "lc": "https://leetcode.com/problems/house-robber/",
+      "gfg": "https://www.geeksforgeeks.org/problems/max-sum-without-adjacents2430/1",
       "tags": [
         "Dynamic Programming"
       ],
@@ -8143,6 +8581,7 @@
       "yt": "https://www.youtube.com/watch?v=3WaxQMELSkw",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/house-robber-ii",
       "lc": "https://leetcode.com/problems/house-robber/",
+      "gfg": "https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8163,6 +8602,7 @@
       "yt": "https://www.youtube.com/watch?v=AE39gJYuRog",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/ninjas-training",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/geeks-training/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8183,6 +8623,7 @@
       "yt": "https://www.youtube.com/watch?v=sdE0A2Oxofw",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/grid-unique-paths",
       "lc": "https://leetcode.com/problems/unique-paths/",
+      "gfg": "https://www.geeksforgeeks.org/problems/number-of-unique-paths/0",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8203,6 +8644,7 @@
       "yt": "https://www.youtube.com/watch?v=TmhpgXScLyY",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/unique-paths-ii-obstacles",
       "lc": "https://leetcode.com/problems/unique-paths-ii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/grid-path-2/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8223,6 +8665,7 @@
       "yt": "https://youtu.be/_rgTlyky1uQ",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/minimum-falling-path-sum",
       "lc": "https://leetcode.com/problems/minimum-falling-path-sum/",
+      "gfg": "",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8243,6 +8686,7 @@
       "yt": "https://www.youtube.com/watch?v=SrP-PiLSYC0",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/triangle-minimum-path-sum",
       "lc": "https://leetcode.com/problems/triangle/",
+      "gfg": "https://www.geeksforgeeks.org/problems/minimum-cost-path3833/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8263,6 +8707,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/cherry-pickup-ii/",
+      "gfg": "",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8283,6 +8728,7 @@
       "yt": "https://youtu.be/auS1fynpnjo",
       "article": "",
       "lc": "https://leetcode.com/problems/count-square-submatrices-with-all-ones/",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -8298,6 +8744,7 @@
       "yt": "https://youtu.be/excAOvwF_Wk",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock",
       "lc": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/",
+      "gfg": "https://www.geeksforgeeks.org/problems/stock-buy-and-sell-1587115621/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8318,6 +8765,7 @@
       "yt": "https://youtu.be/nGJmxkUJQGs",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock-ii",
       "lc": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/buy-stock-2/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8338,6 +8786,7 @@
       "yt": "https://youtu.be/-uQGzhYj8BQ",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock-iii",
       "lc": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/buy-and-sell-a-share-at-most-twice/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8358,6 +8807,7 @@
       "yt": "https://youtu.be/IV1dHbk5CDc",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock-iv",
       "lc": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/",
+      "gfg": "https://www.geeksforgeeks.org/problems/maximum-profit4657/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8378,6 +8828,7 @@
       "yt": "https://youtu.be/k4eK-vEmnKg",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock-with-transaction-fee",
       "lc": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/",
+      "gfg": "https://www.geeksforgeeks.org/problems/buy-stock-with-transaction-fee/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8398,6 +8849,7 @@
       "yt": "https://youtu.be/IGIe46xw3YY",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/best-time-to-buy-and-sell-stock-with-cooldown",
       "lc": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
+      "gfg": "",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8418,6 +8870,7 @@
       "yt": "https://www.youtube.com/watch?v=rYkfBRtMJr8&list=PLgUwDviBIf0p4ozDR_kJJkONnb1wdx2Ma&index=52",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/subset-sum-equal-to-target",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1",
       "tags": [
         "Dynamic Programming"
       ],
@@ -8437,6 +8890,7 @@
       "yt": "https://www.youtube.com/watch?v=7win3dcgo3k",
       "article": "",
       "lc": "https://leetcode.com/problems/partition-equal-subset-sum/",
+      "gfg": "https://www.geeksforgeeks.org/problems/subset-sum-problem2014/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8457,6 +8911,7 @@
       "yt": "https://www.youtube.com/watch?v=GS_OqZb2CWc",
       "article": "",
       "lc": "https://leetcode.com/problems/last-stone-weight-ii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/minimum-sum-partition3317/1",
       "tags": [
         "Dynamic Programming"
       ],
@@ -8476,6 +8931,7 @@
       "yt": "https://www.youtube.com/watch?v=ZHyb-A2Mte4",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-subsets-with-sum-k",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1",
       "tags": [
         "Dynamic Programming"
       ],
@@ -8495,6 +8951,7 @@
       "yt": "https://www.youtube.com/watch?v=zoilQD1kYSg",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-partitions-with-a-given-difference",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/partitions-with-given-difference/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8515,6 +8972,7 @@
       "yt": "https://youtu.be/GqOmJHQZivw",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8535,6 +8993,7 @@
       "yt": "https://www.youtube.com/watch?v=myPeWb3Y68A",
       "article": "",
       "lc": "https://leetcode.com/problems/coin-change/",
+      "gfg": "https://www.geeksforgeeks.org/problems/-minimum-number-of-coins4426/1",
       "tags": [
         "Greedy Algorithms",
         "Mathematics"
@@ -8555,6 +9014,7 @@
       "yt": "https://www.youtube.com/watch?v=b3GD8263-PQ",
       "article": "",
       "lc": "https://leetcode.com/problems/target-sum/",
+      "gfg": "https://www.geeksforgeeks.org/problems/target-sum-1626326450/1",
       "tags": [
         "Dynamic Programming",
         "Recursion & Backtracking",
@@ -8576,6 +9036,7 @@
       "yt": "https://www.youtube.com/watch?v=HgyouUi11zk",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/coin-change-ii-combinations",
       "lc": "https://leetcode.com/problems/coin-change-ii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/coin-change2448/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8596,6 +9057,7 @@
       "yt": "https://youtu.be/OgvOZ6OrJoY",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/unbounded-knapsack",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8616,6 +9078,7 @@
       "yt": "https://youtu.be/mO8XpGoJwuo",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/rod-cutting-problem",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/rod-cutting0840/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -8636,6 +9099,7 @@
       "yt": "https://youtu.be/on2hvxBXJH4",
       "article": "",
       "lc": "https://leetcode.com/problems/longest-increasing-subsequence/",
+      "gfg": "https://www.geeksforgeeks.org/problems/longest-increasing-subsequence-1587115620/1",
       "tags": [
         "Dynamic Programming",
         "Arrays",
@@ -8658,6 +9122,7 @@
       "yt": "https://youtu.be/IFfYfonAFGc",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/print-longest-increasing-subsequence",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/printing-longest-increasing-subsequence/1",
       "tags": [
         "Dynamic Programming"
       ],
@@ -8677,6 +9142,7 @@
       "yt": "https://youtu.be/gDuZwBW9VvM",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/largest-divisible-subset",
       "lc": "https://leetcode.com/problems/largest-divisible-subset/",
+      "gfg": "https://www.geeksforgeeks.org/problems/largest-divisible-subset--170643/1",
       "tags": [
         "Dynamic Programming",
         "Arrays",
@@ -8698,6 +9164,7 @@
       "yt": "https://youtu.be/YY8iBaYcc4g",
       "article": "",
       "lc": "https://leetcode.com/problems/longest-string-chain/",
+      "gfg": "https://www.geeksforgeeks.org/problems/longest-string-chain/1",
       "tags": [
         "Dynamic Programming",
         "Strings",
@@ -8719,6 +9186,7 @@
       "yt": "https://youtu.be/y4vN0WNdrlg",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/longest-bitonic-subsequence0824/1",
       "tags": [
         "Dynamic Programming"
       ],
@@ -8738,6 +9206,7 @@
       "yt": "https://youtu.be/cKVl1TFdNXg",
       "article": "",
       "lc": "https://leetcode.com/problems/number-of-longest-increasing-subsequence/",
+      "gfg": "https://www.geeksforgeeks.org/problems/number-of-longest-increasing-subsequence/1",
       "tags": [
         "Dynamic Programming",
         "Advanced Range Data Structures",
@@ -8759,6 +9228,7 @@
       "yt": "https://youtu.be/-zI4mrF2Pb4",
       "article": "",
       "lc": "https://leetcode.com/problems/longest-common-subsequence/",
+      "gfg": "",
       "tags": [
         "Dynamic Programming",
         "Strings"
@@ -8779,6 +9249,7 @@
       "yt": "https://youtu.be/_wP9mWNPL5w",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/longest-common-substring1452/1",
       "tags": [
         "Dynamic Programming",
         "Strings"
@@ -8799,6 +9270,7 @@
       "yt": "https://youtu.be/6i_T5kkfv4A",
       "article": "",
       "lc": "https://leetcode.com/problems/longest-palindromic-subsequence/",
+      "gfg": "https://www.geeksforgeeks.org/problems/longest-palindromic-subsequence-1612327878/1",
       "tags": [
         "Dynamic Programming",
         "Strings"
@@ -8819,6 +9291,7 @@
       "yt": "https://www.youtube.com/watch?v=xPBLEj41rFU",
       "article": "",
       "lc": "https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/",
+      "gfg": "https://www.geeksforgeeks.org/problems/form-a-palindrome1455/1",
       "tags": [
         "Dynamic Programming",
         "Strings"
@@ -8839,6 +9312,7 @@
       "yt": "https://www.youtube.com/watch?v=yMnH0jrir0Q",
       "article": "",
       "lc": "https://leetcode.com/problems/delete-operation-for-two-strings/",
+      "gfg": "https://www.geeksforgeeks.org/problems/minimum-number-of-deletions-and-insertions0209/1",
       "tags": [
         "Dynamic Programming",
         "Strings"
@@ -8859,6 +9333,7 @@
       "yt": "https://youtu.be/xElxAuBcvsU",
       "article": "",
       "lc": "https://leetcode.com/problems/shortest-common-supersequence/",
+      "gfg": "https://www.geeksforgeeks.org/problems/shortest-common-supersequence0322/1",
       "tags": [
         "Dynamic Programming",
         "Strings"
@@ -8879,6 +9354,7 @@
       "yt": "https://youtu.be/nVG7eTiD2bY",
       "article": "",
       "lc": "https://leetcode.com/problems/distinct-subsequences/",
+      "gfg": "https://www.geeksforgeeks.org/problems/number-of-distinct-subsequences0909/1",
       "tags": [
         "Dynamic Programming",
         "Strings"
@@ -8899,6 +9375,7 @@
       "yt": "https://youtu.be/fJaKO8FbDdo",
       "article": "",
       "lc": "https://leetcode.com/problems/edit-distance/",
+      "gfg": "https://www.geeksforgeeks.org/problems/edit-distance3702/1",
       "tags": [
         "Dynamic Programming",
         "Strings"
@@ -8919,6 +9396,7 @@
       "yt": "https://youtu.be/ZmlQ3vgAOMo",
       "article": "",
       "lc": "https://leetcode.com/problems/wildcard-matching/",
+      "gfg": "https://www.geeksforgeeks.org/problems/wildcard-pattern-matching/1",
       "tags": [
         "Dynamic Programming",
         "Strings",
@@ -8940,6 +9418,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/word-break/",
+      "gfg": "",
       "tags": [
         "Dynamic Programming",
         "Strings",
@@ -8961,6 +9440,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/count-palindromic-subsequences/",
+      "gfg": "",
       "tags": [
         "Dynamic Programming",
         "Strings"
@@ -8981,6 +9461,7 @@
       "yt": "https://youtu.be/vRVfmbCFW7Y",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -9001,6 +9482,7 @@
       "yt": "https://youtu.be/Yz4LlDSlkns",
       "article": "",
       "lc": "https://leetcode.com/problems/burst-balloons/",
+      "gfg": "https://www.geeksforgeeks.org/batch-problems/maximum-triple-product/1/",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -9021,6 +9503,7 @@
       "yt": "https://youtu.be/_H8V5hJUGd0",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/palindrome-partitioning-ii-minimum-cuts",
       "lc": "https://leetcode.com/problems/palindrome-partitioning-ii/",
+      "gfg": "https://www.geeksforgeeks.org/problems/palindromic-patitioning4845/1",
       "tags": [
         "Dynamic Programming",
         "Strings"
@@ -9041,6 +9524,7 @@
       "yt": "https://youtu.be/PhWWJmaKfMc",
       "article": "",
       "lc": "https://leetcode.com/problems/partition-array-for-maximum-sum/",
+      "gfg": "",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -9061,6 +9545,7 @@
       "yt": "https://youtu.be/xwomavsC86c",
       "article": "",
       "lc": "https://leetcode.com/problems/minimum-cost-to-cut-a-stick/",
+      "gfg": "https://www.geeksforgeeks.org/problems/rod-cutting0840/1",
       "tags": [
         "Dynamic Programming",
         "Arrays"
@@ -9081,6 +9566,7 @@
       "yt": "https://youtu.be/MM7fXopgyjw",
       "article": "",
       "lc": "https://leetcode.com/problems/parsing-a-boolean-expression/",
+      "gfg": "",
       "tags": [
         "Dynamic Programming",
         "Mathematics"
@@ -9101,6 +9587,7 @@
       "yt": "https://youtu.be/5iyuU4hQFrw",
       "article": "",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -9116,6 +9603,7 @@
       "yt": "https://www.youtube.com/watch?v=dBGUmUQhjaM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/trie-implementation",
       "lc": "https://leetcode.com/problems/implement-trie-prefix-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/trie-insert-and-search0651/1",
       "tags": [
         "Tries"
       ],
@@ -9135,6 +9623,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/trie-ii-count-words-erase",
       "lc": "https://leetcode.com/problems/implement-trie-ii-prefix-tree/",
+      "gfg": "https://www.geeksforgeeks.org/problems/trie-delete/1",
       "tags": [
         "Tries"
       ],
@@ -9154,6 +9643,7 @@
       "yt": "https://www.youtube.com/watch?v=AWnBa91lThI&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=3",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-word-with-all-prefixes",
       "lc": "https://leetcode.com/problems/longest-word-with-all-prefixes/",
+      "gfg": "https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1",
       "tags": [
         "Tries",
         "Arrays",
@@ -9175,6 +9665,7 @@
       "yt": "https://www.youtube.com/watch?v=RV0QeTyHZxo&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=4",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/number-of-distinct-substrings-in-a-string",
       "lc": "https://leetcode.com/problems/number-of-distinct-substrings-in-a-string/",
+      "gfg": "https://www.geeksforgeeks.org/problems/count-of-distinct-substrings/1",
       "tags": [
         "Tries",
         "Strings"
@@ -9195,6 +9686,7 @@
       "yt": "https://www.youtube.com/watch?v=EIhAwfHubE8&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=6",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-xor-of-two-numbers-in-an-array",
       "lc": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/",
+      "gfg": "https://www.geeksforgeeks.org/problems/maximum-xor-of-two-numbers-in-an-array/0",
       "tags": [
         "Tries",
         "Hashing",
@@ -9216,6 +9708,7 @@
       "yt": "https://www.youtube.com/watch?v=Q8LhG9Pi5KM&list=PLgUwDviBIf0pcIDCZnxhv0LkHf5KzG9zp&index=7",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/maximum-xor-queries-trie",
       "lc": "https://leetcode.com/problems/maximum-xor-with-an-element-from-array/",
+      "gfg": "https://www.geeksforgeeks.org/problems/maximum-xor-with-an-element-from-array/1",
       "tags": [
         "Tries",
         "Arrays",
@@ -9237,6 +9730,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/reverse-every-word-in-a-string",
       "lc": "https://leetcode.com/problems/reverse-words-in-a-string/",
+      "gfg": "https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1",
       "tags": [
         "Strings"
       ],
@@ -9256,6 +9750,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/",
+      "gfg": "https://www.geeksforgeeks.org/problems/count-the-reversals0401/1",
       "tags": [
         "Stack & Queues",
         "Strings"
@@ -9276,6 +9771,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/count-and-say",
       "lc": "https://leetcode.com/problems/count-and-say/",
+      "gfg": "https://www.geeksforgeeks.org/problems/decode-the-pattern1138/1",
       "tags": [
         "Strings"
       ],
@@ -9295,6 +9791,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/string-hashing-rolling-hash",
       "lc": "",
+      "gfg": "",
       "tags": [],
       "patterns": []
     },
@@ -9310,6 +9807,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/repeated-string-match/discuss/416144/Rabin-Karp-algorithm-C%2B%2B-implementation",
+      "gfg": "https://www.geeksforgeeks.org/problems/31272eef104840f7430ad9fd1d43b434a4b9596b/1",
       "tags": [
         "Strings"
       ],
@@ -9329,6 +9827,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/z-function",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/8dcd25918295847b4ced54055eae35a8501181c1/1",
       "tags": [
         "Strings"
       ],
@@ -9348,6 +9847,7 @@
       "yt": "",
       "article": "",
       "lc": "https://leetcode.com/problems/implement-strstr/",
+      "gfg": "https://www.geeksforgeeks.org/problems/search-pattern0205/1",
       "tags": [
         "Strings"
       ],
@@ -9367,6 +9867,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/shortest-palindrome",
       "lc": "https://leetcode.com/problems/shortest-palindrome/",
+      "gfg": "https://www.geeksforgeeks.org/problems/minimum-characters-to-be-added-at-front-to-make-string-palindrome/1",
       "tags": [
         "Strings",
         "Hashing"
@@ -9387,6 +9888,7 @@
       "yt": "",
       "article": "https://takeuforward.org/blogs/data-structure-and-algorithm/longest-happy-prefix",
       "lc": "https://leetcode.com/problems/longest-happy-prefix/",
+      "gfg": "https://www.geeksforgeeks.org/problems/longest-prefix-suffix2527/1",
       "tags": [
         "Strings",
         "Hashing"
@@ -9407,6 +9909,7 @@
       "yt": "",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1",
       "tags": [
         "Mathematics",
         "Arrays"
@@ -9427,6 +9930,7 @@
       "yt": "https://youtu.be/LT7XhVdeRyg?si=6HkjQokJRPTFai21",
       "article": "",
       "lc": "",
+      "gfg": "https://www.geeksforgeeks.org/problems/prime-factorization-using-sieve/1",
       "tags": [
         "Mathematics",
         "Bit Manipulation"
@@ -9447,6 +9951,7 @@
       "yt": "https://youtu.be/g5Fuxn_AvSk?si=fv6Q-Po7wrMW0a5n",
       "article": "",
       "lc": "https://leetcode.com/problems/count-primes/",
+      "gfg": "https://www.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1",
       "tags": [
         "Mathematics",
         "Bit Manipulation"

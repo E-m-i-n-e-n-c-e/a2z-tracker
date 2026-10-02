@@ -18,6 +18,8 @@ python3 scripts/update_sheet.py
 
 It prints what changed and rewrites `web/src/data/sheet.json`. If fetching ever fails, save the [sheet page](https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet) with Cmd/Ctrl+S and pass the file instead: `python3 scripts/update_sheet.py "<saved page>.html"`.
 
+Practice links go LeetCode → GeeksforGeeks → takeUforward. GfG links aren't on takeUforward anymore, so they come from `scripts/gfg_links.json`, built once from an older copy of the sheet.
+
 It only reads question data, never solved status. The saved page stays local (`*.html` is gitignored).
 
 Difficulty: takeUforward's basic/core/pro are shown as Easy/Medium/Hard.

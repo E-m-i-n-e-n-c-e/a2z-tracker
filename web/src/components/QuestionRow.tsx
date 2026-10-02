@@ -1,6 +1,6 @@
-import { memo } from "react";
-import { ArticleIcon, CodeIcon, LeetCodeIcon, YouTubeIcon } from "./icons";
-import { type Item, itemKey } from "@/lib/sheet";
+import { memo, useEffect, useRef, useState } from "react";
+import { ArticleIcon, CodeIcon, GfgIcon, LeetCodeIcon, YouTubeIcon } from "./icons";
+import { type GfgOption, type Item, itemKey } from "@/lib/sheet";
 
 interface Props {
   item: Item;
@@ -17,6 +17,50 @@ function IconLink({ href, label, children }: { href: string; label: string; chil
     <a className="icon-link" href={href} target="_blank" rel="noreferrer" title={label} aria-label={label}>
       {children}
     </a>
+  );
+}
+
+/** One question covered by several GfG problems (e.g. floor and ceil): pick which one to open. */
+function GfgMenu({ options }: { options: GfgOption[] }) {
+  const [open, setOpen] = useState(false);
+  const ref = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (!open) return;
+    const close = (e: MouseEvent | KeyboardEvent) => {
+      if (e instanceof KeyboardEvent ? e.key === "Escape" : !ref.current?.contains(e.target as Node)) setOpen(false);
+    };
+    document.addEventListener("mousedown", close);
+    document.addEventListener("keydown", close);
+    return () => {
+      document.removeEventListener("mousedown", close);
+      document.removeEventListener("keydown", close);
+    };
+  }, [open]);
+
+  return (
+    <div className="link-menu" ref={ref}>
+      <button
+        type="button"
+        className="icon-link"
+        aria-haspopup="menu"
+        aria-expanded={open}
+        title={`Solve on GeeksforGeeks (${options.length} problems)`}
+        aria-label={`Solve on GeeksforGeeks, choose from ${options.length} problems`}
+        onClick={() => setOpen((o) => !o)}
+      >
+        <GfgIcon className="icon icon-gfg" />
+      </button>
+      {open && (
+        <div className="link-menu-list" role="menu">
+          {options.map((o) => (
+            <a key={o.url} role="menuitem" href={o.url} target="_blank" rel="noreferrer" onClick={() => setOpen(false)}>
+              {o.title}
+            </a>
+          ))}
+        </div>
+      )}
+    </div>
   );
 }
 
@@ -60,9 +104,16 @@ function QuestionRow({ item, done, flash, showSub, onToggle }: Props) {
         <IconLink href={item.yt} label="Watch video">
           <YouTubeIcon className="icon" />
         </IconLink>
+        {/* Practice link: LeetCode, else GeeksforGeeks, else takeUforward's own problem page. */}
         {item.lc ? (
           <IconLink href={item.lc} label="Solve on LeetCode">
             <LeetCodeIcon className="icon icon-leetcode" />
+          </IconLink>
+        ) : item.gfgOptions && item.gfgOptions.length > 1 ? (
+          <GfgMenu options={item.gfgOptions} />
+        ) : item.gfg ? (
+          <IconLink href={item.gfg} label="Solve on GeeksforGeeks">
+            <GfgIcon className="icon icon-gfg" />
           </IconLink>
         ) : (
           <IconLink href={item.kind === "practice" ? item.tuf : ""} label="Solve on takeUforward">

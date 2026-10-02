@@ -766,6 +766,54 @@ select {
   color: #ffa116;
 }
 
+.icon-gfg {
+  color: #2f8d46;
+}
+
+.link-menu {
+  position: relative;
+}
+
+.link-menu > .icon-link {
+  position: relative;
+  padding: 0;
+  border: 0;
+  background: none;
+  cursor: pointer;
+}
+
+.link-menu > .icon-link:hover,
+.link-menu > .icon-link[aria-expanded="true"] {
+  background: var(--done-soft);
+}
+
+.link-menu-list {
+  position: absolute;
+  top: calc(100% + 4px);
+  right: 0;
+  z-index: 5;
+  display: grid;
+  min-width: 190px;
+  padding: 4px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--surface);
+  box-shadow: 0 6px 20px rgb(0 0 0 / 0.18);
+}
+
+.link-menu-list a {
+  padding: 8px 10px;
+  border-radius: var(--radius-sm);
+  font-size: 13px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.link-menu-list a:hover,
+.link-menu-list a:focus-visible {
+  background: var(--done-soft);
+}
+
 .icon-code {
   color: var(--ink);
 }
