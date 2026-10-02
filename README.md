@@ -10,11 +10,13 @@ Personal tracker for Striver's A2Z DSA sheet, built with Next.js in `web/`.
 cd web && npm install && npm run dev
 ```
 
-To refresh the question list (new links, articles), save the [A2Z sheet page](https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet) with Cmd/Ctrl+S and run:
+To refresh the question list (new questions, links, articles) from takeUforward's live sheet:
 
 ```sh
-python3 scripts/update_sheet.py "Striver's A2Z DSA Sheet & Course _ takeUforward.html"
+python3 scripts/update_sheet.py
 ```
+
+It prints what changed and rewrites `web/src/data/sheet.json`. If fetching ever fails, save the [sheet page](https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet) with Cmd/Ctrl+S and pass the file instead: `python3 scripts/update_sheet.py "<saved page>.html"`.
 
 It only reads question data, never solved status. The saved page stays local (`*.html` is gitignored).
 

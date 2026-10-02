@@ -1,20 +1,23 @@
-"""Rebuild web/src/data/sheet.json from a saved takeUforward A2Z sheet page.
+"""Rebuild web/src/data/sheet.json from takeUforward's A2Z sheet.
 
-Usage: python3 scripts/update_sheet.py "<saved page>.html"
+Usage:
+  python3 scripts/update_sheet.py                  # fetch the live sheet page
+  python3 scripts/update_sheet.py "<saved>.html"   # or read a page saved with Cmd/Ctrl+S
 
-Save the sheet (https://takeuforward.org/prep-hub/strivers-a2z-dsa-sheet?page=sheet) with Cmd/Ctrl+S.
-Only question data is written (titles, links, difficulty, tags); solved status is ignored,
-so it doesn't matter whose account the page was saved from.
+The public page (no login) carries the full sheet data. Only question data is written
+(titles, links, difficulty, tags); solved status is ignored.
 """
 
 import json
 import re
 import sys
+import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "web" / "src" / "data" / "sheet.json"
 BASE = "https://takeuforward.org"
+SHEET_URL = f"{BASE}/prep-hub/strivers-a2z-dsa-sheet?page=sheet"
 # takeUforward labels problems basic/core/pro; the tracker shows Easy/Medium/Hard.
 DIFFICULTY = {"basic": "Easy", "core": "Medium", "pro": "Hard"}
 
@@ -34,6 +37,34 @@ def load_syllabus(html: str) -> dict:
         sys.exit("No sheet data found. Save the page from the A2Z sheet itself.")
     syllabus, _ = json.JSONDecoder().raw_decode(payload, payload.index(key) + len(key))
     return syllabus
+
+
+def fetch_page() -> str:
+    req = urllib.request.Request(SHEET_URL, headers={"User-Agent": "Mozilla/5.0 (a2z-tracker sheet update)"})
+    with urllib.request.urlopen(req, timeout=60) as res:
+        return res.read().decode("utf-8")
+
+
+def summarize(old: dict, new: dict):
+    """Print what changed compared with the current sheet.json."""
+    if old["steps"] != new["steps"]:
+        print("  steps changed:", old["steps"], "->", new["steps"])
+    oi = {(i["step"], i["id"]): i for i in old["items"]}
+    ni = {(i["step"], i["id"]): i for i in new["items"]}
+    for key in ni.keys() - oi.keys():
+        print(f"  added: {ni[key]['title']} (step {key[0]})")
+    for key in oi.keys() - ni.keys():
+        print(f"  removed: {oi[key]['title']} (step {key[0]})")
+    changed = 0
+    for key in sorted(oi.keys() & ni.keys()):
+        for field, value in ni[key].items():
+            if oi[key].get(field) != value:
+                changed += 1
+                print(f"  {ni[key]['title']}: {field} {oi[key].get(field)!r} -> {value!r}")
+    if old == new:
+        print("  no changes")
+    elif changed == 0 and oi.keys() == ni.keys() and old["steps"] == new["steps"]:
+        print("  only ordering changed")
 
 
 def resolve(value, syl):
@@ -58,8 +89,9 @@ def abs_url(u):
     return u if u.startswith("http") else BASE + u
 
 
-def main(path: str):
-    syl = load_syllabus(Path(path).read_text(encoding="utf-8"))
+def main(path: str | None):
+    html = Path(path).read_text(encoding="utf-8") if path else fetch_page()
+    syl = load_syllabus(html)
     # Each row is [schemaIndex, ...values]; fields[schemaIndex] names the values.
     nodes = [dict(zip(syl["fields"][r[0]], r[1:])) for r in syl["rows"]]
 
@@ -97,13 +129,16 @@ def main(path: str):
         for c in n.get("children", []):
             walk(c, [n["label"].strip()], step_no)
 
-    OUT.write_text(json.dumps({"steps": steps, "items": items}, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    new = {"steps": steps, "items": items}
+    if OUT.exists():
+        summarize(json.loads(OUT.read_text(encoding="utf-8")), new)
+    OUT.write_text(json.dumps(new, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
     with_article = sum(1 for it in items if it["article"])
     print(f"Wrote {OUT.relative_to(ROOT)}: {len(steps)} steps, {len(items)} items, {with_article} with articles")
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
+    if len(sys.argv) > 2:
         sys.exit(__doc__)
-    main(sys.argv[1])
+    main(sys.argv[1] if len(sys.argv) == 2 else None)
