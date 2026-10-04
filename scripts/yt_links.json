@@ -1,0 +1,6 @@
+{
+  "_source": "Fallback YouTube links for questions where takeUforward has no video. Only used when takeUforward's own data has none; theirs always wins. Keys are question ids.",
+  "links": {
+    "296": "https://www.youtube.com/watch?v=QGfn7JeXK54"
+  }
+}

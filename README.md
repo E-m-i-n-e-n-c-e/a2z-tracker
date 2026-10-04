@@ -20,6 +20,8 @@ It prints what changed and rewrites `web/src/data/sheet.json`. If fetching ever 
 
 Practice links go LeetCode → GeeksforGeeks → takeUforward. GfG links aren't on takeUforward anymore, so they come from `scripts/gfg_links.json`, built once from an older copy of the sheet.
 
+`scripts/lc_links.json` and `scripts/yt_links.json` add our own LeetCode and video links, but only for questions where takeUforward has none; takeUforward's links always win.
+
 It only reads question data, never solved status. The saved page stays local (`*.html` is gitignored).
 
 Difficulty: takeUforward's basic/core/pro are shown as Easy/Medium/Hard.

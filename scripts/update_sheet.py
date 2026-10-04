@@ -20,6 +20,8 @@ OUT = ROOT / "web" / "src" / "data" / "sheet.json"
 GFG = json.loads((ROOT / "scripts" / "gfg_links.json").read_text(encoding="utf-8"))["links"]
 # Our own LeetCode links, only for questions where takeUforward has none. Never overrides theirs.
 LC_FALLBACK = json.loads((ROOT / "scripts" / "lc_links.json").read_text(encoding="utf-8"))["links"]
+# Same idea for videos: only fills questions where takeUforward has no video.
+YT_FALLBACK = json.loads((ROOT / "scripts" / "yt_links.json").read_text(encoding="utf-8"))["links"]
 
 
 def gfg_fields(qid: str) -> dict:
@@ -124,7 +126,7 @@ def main(path: str | None):
                 "dur": n.get("duration") or "",
                 # Site routes are /{layoutType}/{contentType}/{slug}, e.g. /practice/dsa/two-sum
                 "tuf": f"{BASE}/{rt.get('layoutType', kind)}/{rt.get('contentType', 'dsa')}/{rt.get('itemSlug', n['slug'])}",
-                "yt": n.get("yt_video") or "",
+                "yt": n.get("yt_video") or YT_FALLBACK.get(str(n["id"]), ""),
                 "article": abs_url(n.get("free_blog_link")),
                 "lc": n.get("leetcode_link") or (LC_FALLBACK.get(str(n["id"]), "") if kind == "practice" else ""),
                 **(gfg_fields(str(n["id"])) if kind == "practice" else {"gfg": ""}),
@@ -147,9 +149,10 @@ def main(path: str | None):
         summarize(json.loads(OUT.read_text(encoding="utf-8")), new)
     OUT.write_text(json.dumps(new, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
-    for qid in LC_FALLBACK:
-        if any(str(it["id"]) == qid and it["lc"] != LC_FALLBACK[qid] for it in items):
-            print(f"  note: takeUforward now has its own LeetCode link for {qid}; lc_links.json entry is unused")
+    for field, fallback, name in (("lc", LC_FALLBACK, "lc_links.json"), ("yt", YT_FALLBACK, "yt_links.json")):
+        for qid, url in fallback.items():
+            if any(str(it["id"]) == qid and it[field] != url for it in items):
+                print(f"  note: takeUforward now has its own {field} link for {qid}; {name} entry is unused")
     with_article = sum(1 for it in items if it["article"])
     print(f"Wrote {OUT.relative_to(ROOT)}: {len(steps)} steps, {len(items)} items, {with_article} with articles")
 
